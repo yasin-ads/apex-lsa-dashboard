@@ -273,5 +273,280 @@
         "Status": "NOT_RANKING"
       }
     ]
+  },
+  {
+    "checked_at_utc": "2026-08-08 18:59:07 UTC",
+    "results": [
+      {
+        "City": "Acton, MA",
+        "Rank": "#19",
+        "Status": "RANKED"
+      },
+      {
+        "City": "Andover, MA",
+        "Rank": "#19",
+        "Status": "RANKED"
+      },
+      {
+        "City": "Arlington, MA",
+        "Rank": "-",
+        "Status": "NOT_RANKING"
+      },
+      {
+        "City": "Bedford, MA",
+        "Rank": "-",
+        "Status": "NOT_RANKING"
+      },
+      {
+        "City": "Belmont, MA",
+        "Rank": "-",
+        "Status": "NOT_RANKING"
+      },
+      {
+        "City": "Billerica, MA",
+        "Rank": "-",
+        "Status": "NOT_RANKING"
+      },
+      {
+        "City": "Boston, MA",
+        "Rank": "-",
+        "Status": "NOT_RANKING"
+      },
+      {
+        "City": "Braintree, MA",
+        "Rank": "-",
+        "Status": "NOT_RANKING"
+      },
+      {
+        "City": "Brookline, MA",
+        "Rank": "-",
+        "Status": "NOT_RANKING"
+      },
+      {
+        "City": "Burlington, MA",
+        "Rank": "-",
+        "Status": "NOT_RANKING"
+      },
+      {
+        "City": "Cambridge, MA",
+        "Rank": "-",
+        "Status": "NOT_RANKING"
+      },
+      {
+        "City": "Canton, MA",
+        "Rank": "-",
+        "Status": "NOT_RANKING"
+      },
+      {
+        "City": "Chelmsford, MA",
+        "Rank": "#20",
+        "Status": "RANKED"
+      },
+      {
+        "City": "Chelsea, MA",
+        "Rank": "-",
+        "Status": "NOT_RANKING"
+      },
+      {
+        "City": "Concord, MA",
+        "Rank": "-",
+        "Status": "NOT_RANKING"
+      },
+      {
+        "City": "Dedham, MA",
+        "Rank": "-",
+        "Status": "NOT_RANKING"
+      },
+      {
+        "City": "Dracut, MA",
+        "Rank": "#17",
+        "Status": "RANKED"
+      },
+      {
+        "City": "Everett, MA",
+        "Rank": "-",
+        "Status": "NOT_RANKING"
+      },
+      {
+        "City": "Framingham, MA",
+        "Rank": "-",
+        "Status": "NOT_RANKING"
+      },
+      {
+        "City": "Haverhill, MA",
+        "Rank": "#13",
+        "Status": "RANKED"
+      },
+      {
+        "City": "Lawrence, MA",
+        "Rank": "#14",
+        "Status": "RANKED"
+      },
+      {
+        "City": "Lexington, MA",
+        "Rank": "-",
+        "Status": "NOT_RANKING"
+      },
+      {
+        "City": "Littleton, MA",
+        "Rank": "#17",
+        "Status": "RANKED"
+      },
+      {
+        "City": "Lowell, MA",
+        "Rank": "#19",
+        "Status": "RANKED"
+      },
+      {
+        "City": "Malden, MA",
+        "Rank": "-",
+        "Status": "NOT_RANKING"
+      },
+      {
+        "City": "Marlborough, MA",
+        "Rank": "-",
+        "Status": "NOT_RANKING"
+      },
+      {
+        "City": "Medford, MA",
+        "Rank": "-",
+        "Status": "NOT_RANKING"
+      },
+      {
+        "City": "Melrose, MA",
+        "Rank": "-",
+        "Status": "NOT_RANKING"
+      },
+      {
+        "City": "Methuen, MA",
+        "Rank": "#13",
+        "Status": "RANKED"
+      },
+      {
+        "City": "Milton, MA",
+        "Rank": "-",
+        "Status": "NOT_RANKING"
+      },
+      {
+        "City": "Natick, MA",
+        "Rank": "-",
+        "Status": "NOT_RANKING"
+      },
+      {
+        "City": "Needham, MA",
+        "Rank": "-",
+        "Status": "NOT_RANKING"
+      },
+      {
+        "City": "Newton, MA",
+        "Rank": "-",
+        "Status": "NOT_RANKING"
+      },
+      {
+        "City": "North Andover, MA",
+        "Rank": "#14",
+        "Status": "RANKED"
+      },
+      {
+        "City": "Norwood, MA",
+        "Rank": "-",
+        "Status": "NOT_RANKING"
+      },
+      {
+        "City": "Quincy, MA",
+        "Rank": "-",
+        "Status": "NOT_RANKING"
+      },
+      {
+        "City": "Reading, MA",
+        "Rank": "-",
+        "Status": "NOT_RANKING"
+      },
+      {
+        "City": "Revere, MA",
+        "Rank": "-",
+        "Status": "NOT_RANKING"
+      },
+      {
+        "City": "Somerville, MA",
+        "Rank": "-",
+        "Status": "NOT_RANKING"
+      },
+      {
+        "City": "Stoneham, MA",
+        "Rank": "-",
+        "Status": "NOT_RANKING"
+      },
+      {
+        "City": "Sudbury, MA",
+        "Rank": "-",
+        "Status": "NOT_RANKING"
+      },
+      {
+        "City": "Tewksbury, MA",
+        "Rank": "-",
+        "Status": "NOT_RANKING"
+      },
+      {
+        "City": "Wakefield, MA",
+        "Rank": "-",
+        "Status": "NOT_RANKING"
+      },
+      {
+        "City": "Waltham, MA",
+        "Rank": "-",
+        "Status": "NOT_RANKING"
+      },
+      {
+        "City": "Watertown, MA",
+        "Rank": "-",
+        "Status": "NOT_RANKING"
+      },
+      {
+        "City": "Wayland, MA",
+        "Rank": "-",
+        "Status": "NOT_RANKING"
+      },
+      {
+        "City": "Wellesley, MA",
+        "Rank": "-",
+        "Status": "NOT_RANKING"
+      },
+      {
+        "City": "Westford, MA",
+        "Rank": "-",
+        "Status": "NOT_RANKING"
+      },
+      {
+        "City": "Weston, MA",
+        "Rank": "-",
+        "Status": "NOT_RANKING"
+      },
+      {
+        "City": "Westwood, MA",
+        "Rank": "-",
+        "Status": "NOT_RANKING"
+      },
+      {
+        "City": "Wilmington, MA",
+        "Rank": "#20",
+        "Status": "RANKED"
+      },
+      {
+        "City": "Winchester, MA",
+        "Rank": "-",
+        "Status": "NOT_RANKING"
+      },
+      {
+        "City": "Winthrop, MA",
+        "Rank": "-",
+        "Status": "NOT_RANKING"
+      },
+      {
+        "City": "Woburn, MA",
+        "Rank": "-",
+        "Status": "NOT_RANKING"
+      }
+    ]
   }
 ]
