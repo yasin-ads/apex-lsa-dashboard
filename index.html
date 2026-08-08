@@ -1,4 +1,4 @@
-<!doctype html>
+﻿<!doctype html>
 <html lang="en">
 <head>
 <meta charset="utf-8">
@@ -12,15 +12,18 @@
 </head>
 <body>
 <main>
-<div class="top"><div><h1>Apex Lock N Key — LSA Rankings</h1><div class="muted">Google Local Services Ads • Locksmith</div></div><button id="refresh">Refresh dashboard</button></div>
+<div class="top"><div><h1>Apex Lock N Key â€” LSA Rankings</h1><div class="muted">Google Local Services Ads â€¢ Locksmith</div></div><div style="display:flex;gap:10px;flex-wrap:wrap">
+        <button id="runScan" style="background:#16a34a">🔄 Run New Scan</button>
+        <button id="refresh">↻ Refresh Results</button>
+    </div></div>
 <div class="cards">
-<div class="card"><div class="muted">Tracked cities</div><div class="metric" id="cityCount">—</div></div>
-<div class="card"><div class="muted">Ranked</div><div class="metric good" id="rankedCount">—</div></div>
-<div class="card"><div class="muted">Top 3</div><div class="metric good" id="top3Count">—</div></div>
-<div class="card"><div class="muted">Average rank</div><div class="metric" id="averageRank">—</div></div>
+<div class="card"><div class="muted">Tracked cities</div><div class="metric" id="cityCount">â€”</div></div>
+<div class="card"><div class="muted">Ranked</div><div class="metric good" id="rankedCount">â€”</div></div>
+<div class="card"><div class="muted">Top 3</div><div class="metric good" id="top3Count">â€”</div></div>
+<div class="card"><div class="muted">Average rank</div><div class="metric" id="averageRank">â€”</div></div>
 </div>
 <div class="card">
-<div><strong>Last scan:</strong> <span id="lastScan">—</span></div>
+<div><strong>Last scan:</strong> <span id="lastScan">â€”</span></div>
 <div class="toolbar"><input id="search" placeholder="Search city..."><select id="filter"><option value="all">All statuses</option><option value="ranked">Ranked only</option><option value="top3">Top 3 only</option><option value="not">Not ranking / no results</option></select></div>
 <table><thead><tr><th>City</th><th>Rank</th><th>Status</th><th>Total advertisers</th></tr></thead><tbody id="rows"></tbody></table>
 </div>
@@ -29,7 +32,7 @@
 let payload=null;
 function numericRank(rank){const m=String(rank||"").match(/^#(\d+)$/);return m?Number(m[1]):null}
 function rankClass(rank){const n=numericRank(rank);if(n===null)return"bad";if(n<=3)return"good";if(n<=10)return"warn";return""}
-function render(){if(!payload)return;const all=payload.results||[];const ranked=all.filter(r=>numericRank(r.Rank)!==null);const top3=ranked.filter(r=>numericRank(r.Rank)<=3);const avg=ranked.length?(ranked.reduce((s,r)=>s+numericRank(r.Rank),0)/ranked.length).toFixed(1):"—";cityCount.textContent=payload.city_count??all.length;rankedCount.textContent=ranked.length;top3Count.textContent=top3.length;averageRank.textContent=avg;lastScan.textContent=payload.checked_at_utc||"—";const term=search.value.trim().toLowerCase();const f=filter.value;const rowsData=all.filter(r=>{if(term&&!String(r.City).toLowerCase().includes(term))return false;const n=numericRank(r.Rank);if(f==="ranked"&&n===null)return false;if(f==="top3"&&!(n!==null&&n<=3))return false;if(f==="not"&&n!==null)return false;return true}).sort((a,b)=>(numericRank(a.Rank)??9999)-(numericRank(b.Rank)??9999)||String(a.City).localeCompare(String(b.City)));rows.innerHTML="";for(const r of rowsData){const tr=document.createElement("tr");tr.innerHTML=`<td>${r.City||""}</td><td class="rank ${rankClass(r.Rank)}">${r.Rank||"-"}</td><td class="status">${r.Status||""}</td><td>${r["Total Advertisers"]||"-"}</td>`;rows.appendChild(tr)}}
+function render(){if(!payload)return;const all=payload.results||[];const ranked=all.filter(r=>numericRank(r.Rank)!==null);const top3=ranked.filter(r=>numericRank(r.Rank)<=3);const avg=ranked.length?(ranked.reduce((s,r)=>s+numericRank(r.Rank),0)/ranked.length).toFixed(1):"â€”";cityCount.textContent=payload.city_count??all.length;rankedCount.textContent=ranked.length;top3Count.textContent=top3.length;averageRank.textContent=avg;lastScan.textContent=payload.checked_at_utc||"â€”";const term=search.value.trim().toLowerCase();const f=filter.value;const rowsData=all.filter(r=>{if(term&&!String(r.City).toLowerCase().includes(term))return false;const n=numericRank(r.Rank);if(f==="ranked"&&n===null)return false;if(f==="top3"&&!(n!==null&&n<=3))return false;if(f==="not"&&n!==null)return false;return true}).sort((a,b)=>(numericRank(a.Rank)??9999)-(numericRank(b.Rank)??9999)||String(a.City).localeCompare(String(b.City)));rows.innerHTML="";for(const r of rowsData){const tr=document.createElement("tr");tr.innerHTML=`<td>${r.City||""}</td><td class="rank ${rankClass(r.Rank)}">${r.Rank||"-"}</td><td class="status">${r.Status||""}</td><td>${r["Total Advertisers"]||"-"}</td>`;rows.appendChild(tr)}}
 async function loadData(){const res=await fetch(`data/latest.json?t=${Date.now()}`,{cache:"no-store"});payload=await res.json();render()}
 search.addEventListener("input",render);filter.addEventListener("change",render);refresh.addEventListener("click",loadData);loadData().catch(err=>{lastScan.textContent="Could not load data: "+err});
 </script>
