@@ -1,0 +1,37 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Apex LSA Rank Dashboard</title>
+<style>
+:root{color-scheme:light dark;--bg:#f5f7fb;--panel:#fff;--text:#182230;--muted:#667085;--border:#e4e7ec;--accent:#2563eb;--good:#067647;--warn:#b54708;--bad:#b42318}
+@media(prefers-color-scheme:dark){:root{--bg:#0b1220;--panel:#111827;--text:#f9fafb;--muted:#98a2b3;--border:#344054;--accent:#60a5fa;--good:#6ce9a6;--warn:#fec84b;--bad:#fda29b}}
+*{box-sizing:border-box}body{margin:0;font-family:Inter,system-ui,Arial,sans-serif;background:var(--bg);color:var(--text)}main{max-width:1180px;margin:0 auto;padding:28px 18px 50px}.top{display:flex;justify-content:space-between;gap:16px;align-items:flex-start;flex-wrap:wrap}h1{margin:0 0 7px;font-size:28px}.muted{color:var(--muted)}.cards{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:12px;margin:22px 0}.card{background:var(--panel);border:1px solid var(--border);border-radius:14px;padding:16px}.metric{font-size:28px;font-weight:700;margin-top:8px}.toolbar{display:flex;gap:10px;flex-wrap:wrap;margin:14px 0}input,select{background:var(--panel);color:var(--text);border:1px solid var(--border);border-radius:10px;padding:10px 12px;font-size:15px}input{min-width:240px;flex:1}table{width:100%;border-collapse:collapse;background:var(--panel);border:1px solid var(--border);border-radius:14px;overflow:hidden}th,td{padding:12px 13px;border-bottom:1px solid var(--border);text-align:left}th{font-size:13px;color:var(--muted)}tr:last-child td{border-bottom:0}.rank{font-weight:700;font-size:17px}.good{color:var(--good)}.warn{color:var(--warn)}.bad{color:var(--bad)}.status{font-size:12px;font-weight:700}button{cursor:pointer;border:0;border-radius:10px;padding:10px 14px;background:var(--accent);color:#fff;font-weight:650}@media(max-width:760px){.cards{grid-template-columns:repeat(2,minmax(0,1fr))}th:nth-child(4),td:nth-child(4){display:none}}
+</style>
+</head>
+<body>
+<main>
+<div class="top"><div><h1>Apex Lock N Key — LSA Rankings</h1><div class="muted">Google Local Services Ads • Locksmith</div></div><button id="refresh">Refresh dashboard</button></div>
+<div class="cards">
+<div class="card"><div class="muted">Tracked cities</div><div class="metric" id="cityCount">—</div></div>
+<div class="card"><div class="muted">Ranked</div><div class="metric good" id="rankedCount">—</div></div>
+<div class="card"><div class="muted">Top 3</div><div class="metric good" id="top3Count">—</div></div>
+<div class="card"><div class="muted">Average rank</div><div class="metric" id="averageRank">—</div></div>
+</div>
+<div class="card">
+<div><strong>Last scan:</strong> <span id="lastScan">—</span></div>
+<div class="toolbar"><input id="search" placeholder="Search city..."><select id="filter"><option value="all">All statuses</option><option value="ranked">Ranked only</option><option value="top3">Top 3 only</option><option value="not">Not ranking / no results</option></select></div>
+<table><thead><tr><th>City</th><th>Rank</th><th>Status</th><th>Total advertisers</th></tr></thead><tbody id="rows"></tbody></table>
+</div>
+</main>
+<script>
+let payload=null;
+function numericRank(rank){const m=String(rank||"").match(/^#(\d+)$/);return m?Number(m[1]):null}
+function rankClass(rank){const n=numericRank(rank);if(n===null)return"bad";if(n<=3)return"good";if(n<=10)return"warn";return""}
+function render(){if(!payload)return;const all=payload.results||[];const ranked=all.filter(r=>numericRank(r.Rank)!==null);const top3=ranked.filter(r=>numericRank(r.Rank)<=3);const avg=ranked.length?(ranked.reduce((s,r)=>s+numericRank(r.Rank),0)/ranked.length).toFixed(1):"—";cityCount.textContent=payload.city_count??all.length;rankedCount.textContent=ranked.length;top3Count.textContent=top3.length;averageRank.textContent=avg;lastScan.textContent=payload.checked_at_utc||"—";const term=search.value.trim().toLowerCase();const f=filter.value;const rowsData=all.filter(r=>{if(term&&!String(r.City).toLowerCase().includes(term))return false;const n=numericRank(r.Rank);if(f==="ranked"&&n===null)return false;if(f==="top3"&&!(n!==null&&n<=3))return false;if(f==="not"&&n!==null)return false;return true}).sort((a,b)=>(numericRank(a.Rank)??9999)-(numericRank(b.Rank)??9999)||String(a.City).localeCompare(String(b.City)));rows.innerHTML="";for(const r of rowsData){const tr=document.createElement("tr");tr.innerHTML=`<td>${r.City||""}</td><td class="rank ${rankClass(r.Rank)}">${r.Rank||"-"}</td><td class="status">${r.Status||""}</td><td>${r["Total Advertisers"]||"-"}</td>`;rows.appendChild(tr)}}
+async function loadData(){const res=await fetch(`data/latest.json?t=${Date.now()}`,{cache:"no-store"});payload=await res.json();render()}
+search.addEventListener("input",render);filter.addEventListener("change",render);refresh.addEventListener("click",loadData);loadData().catch(err=>{lastScan.textContent="Could not load data: "+err});
+</script>
+</body>
+</html>

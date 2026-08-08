@@ -1,0 +1,50 @@
+name: Update LSA Rankings
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "15 0,6,12,18 * * *"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: lsa-rank-scan
+  cancel-in-progress: false
+
+jobs:
+  scan:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Verify city CID cache exists
+        run: |
+          if [ ! -f city_cids.json ]; then
+            echo "city_cids.json is missing."
+            echo "Run CID discovery once locally and commit city_cids.json."
+            exit 1
+          fi
+
+      - name: Run LSA rank scan
+        env:
+          SERPAPI_KEY: ${{ secrets.SERPAPI_KEY }}
+        run: python lsa_rank_checker.py
+
+      - name: Commit updated ranking data
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/lsa_ranking_results.csv data/latest.json data/history.json
+          if ! git diff --cached --quiet; then
+            git commit -m "Update LSA rankings"
+            git push
+          else
+            echo "No ranking changes to commit."
+          fi

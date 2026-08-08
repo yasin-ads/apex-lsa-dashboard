@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.env
+.DS_Store
+data/raw_lsa_json/*.json
+!data/raw_lsa_json/.gitkeep
