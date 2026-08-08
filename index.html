@@ -1,4 +1,4 @@
-﻿<!doctype html>
+<!doctype html>
 <html lang="en">
 <head>
 <meta charset="utf-8">
@@ -7,35 +7,41 @@
 <style>
 :root{color-scheme:light dark;--bg:#f5f7fb;--panel:#fff;--text:#182230;--muted:#667085;--border:#e4e7ec;--accent:#2563eb;--good:#067647;--warn:#b54708;--bad:#b42318}
 @media(prefers-color-scheme:dark){:root{--bg:#0b1220;--panel:#111827;--text:#f9fafb;--muted:#98a2b3;--border:#344054;--accent:#60a5fa;--good:#6ce9a6;--warn:#fec84b;--bad:#fda29b}}
-*{box-sizing:border-box}body{margin:0;font-family:Inter,system-ui,Arial,sans-serif;background:var(--bg);color:var(--text)}main{max-width:1180px;margin:0 auto;padding:28px 18px 50px}.top{display:flex;justify-content:space-between;gap:16px;align-items:flex-start;flex-wrap:wrap}h1{margin:0 0 7px;font-size:28px}.muted{color:var(--muted)}.cards{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:12px;margin:22px 0}.card{background:var(--panel);border:1px solid var(--border);border-radius:14px;padding:16px}.metric{font-size:28px;font-weight:700;margin-top:8px}.toolbar{display:flex;gap:10px;flex-wrap:wrap;margin:14px 0}input,select{background:var(--panel);color:var(--text);border:1px solid var(--border);border-radius:10px;padding:10px 12px;font-size:15px}input{min-width:240px;flex:1}table{width:100%;border-collapse:collapse;background:var(--panel);border:1px solid var(--border);border-radius:14px;overflow:hidden}th,td{padding:12px 13px;border-bottom:1px solid var(--border);text-align:left}th{font-size:13px;color:var(--muted)}tr:last-child td{border-bottom:0}.rank{font-weight:700;font-size:17px}.good{color:var(--good)}.warn{color:var(--warn)}.bad{color:var(--bad)}.status{font-size:12px;font-weight:700}button{cursor:pointer;border:0;border-radius:10px;padding:10px 14px;background:var(--accent);color:#fff;font-weight:650}@media(max-width:760px){.cards{grid-template-columns:repeat(2,minmax(0,1fr))}th:nth-child(4),td:nth-child(4){display:none}}
+*{box-sizing:border-box}body{margin:0;font-family:Inter,system-ui,Arial,sans-serif;background:var(--bg);color:var(--text)}main{max-width:1180px;margin:0 auto;padding:28px 18px 50px}.top{display:flex;justify-content:space-between;gap:16px;align-items:flex-start;flex-wrap:wrap}h1{margin:0 0 7px;font-size:28px}.muted{color:var(--muted)}.actions{display:flex;gap:10px;flex-wrap:wrap}.cards{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:12px;margin:22px 0}.card{background:var(--panel);border:1px solid var(--border);border-radius:14px;padding:16px}.metric{font-size:28px;font-weight:700;margin-top:8px}.toolbar{display:flex;gap:10px;flex-wrap:wrap;margin:14px 0}input,select{background:var(--panel);color:var(--text);border:1px solid var(--border);border-radius:10px;padding:10px 12px;font-size:15px}input{min-width:240px;flex:1}table{width:100%;border-collapse:collapse;background:var(--panel);border:1px solid var(--border);border-radius:14px;overflow:hidden}th,td{padding:12px 13px;border-bottom:1px solid var(--border);text-align:left}th{font-size:13px;color:var(--muted)}tr:last-child td{border-bottom:0}.rank{font-weight:700;font-size:17px}.good{color:var(--good)}.warn{color:var(--warn)}.bad{color:var(--bad)}.status{font-size:12px;font-weight:700}button{cursor:pointer;border:0;border-radius:10px;padding:10px 14px;color:#fff;font-weight:650}#runScan{background:#16a34a}#refresh{background:var(--accent)}button:disabled{opacity:.65;cursor:not-allowed}.error{color:var(--bad);margin-top:10px;font-weight:600}@media(max-width:760px){.cards{grid-template-columns:repeat(2,minmax(0,1fr))}th:nth-child(4),td:nth-child(4){display:none}}
 </style>
 </head>
 <body>
 <main>
-<div class="top"><div><h1>Apex Lock N Key â€” LSA Rankings</h1><div class="muted">Google Local Services Ads â€¢ Locksmith</div></div><div style="display:flex;gap:10px;flex-wrap:wrap">
-        <button id="runScan" style="background:#16a34a">🔄 Run New Scan</button>
-        <button id="refresh">↻ Refresh Results</button>
-    </div></div>
-<div class="cards">
-<div class="card"><div class="muted">Tracked cities</div><div class="metric" id="cityCount">â€”</div></div>
-<div class="card"><div class="muted">Ranked</div><div class="metric good" id="rankedCount">â€”</div></div>
-<div class="card"><div class="muted">Top 3</div><div class="metric good" id="top3Count">â€”</div></div>
-<div class="card"><div class="muted">Average rank</div><div class="metric" id="averageRank">â€”</div></div>
-</div>
-<div class="card">
-<div><strong>Last scan:</strong> <span id="lastScan">â€”</span></div>
-<div class="toolbar"><input id="search" placeholder="Search city..."><select id="filter"><option value="all">All statuses</option><option value="ranked">Ranked only</option><option value="top3">Top 3 only</option><option value="not">Not ranking / no results</option></select></div>
-<table><thead><tr><th>City</th><th>Rank</th><th>Status</th><th>Total advertisers</th></tr></thead><tbody id="rows"></tbody></table>
-</div>
+  <div class="top">
+    <div><h1>Apex Lock N Key &mdash; LSA Rankings</h1><div class="muted">Google Local Services Ads &bull; Locksmith</div></div>
+    <div class="actions"><button id="runScan">&#8635; Run New Scan</button><button id="refresh">&#8635; Refresh Results</button></div>
+  </div>
+  <div class="cards">
+    <div class="card"><div class="muted">Tracked cities</div><div class="metric" id="cityCount">&mdash;</div></div>
+    <div class="card"><div class="muted">Ranked</div><div class="metric good" id="rankedCount">&mdash;</div></div>
+    <div class="card"><div class="muted">Top 3</div><div class="metric good" id="top3Count">&mdash;</div></div>
+    <div class="card"><div class="muted">Average rank</div><div class="metric" id="averageRank">&mdash;</div></div>
+  </div>
+  <div class="card">
+    <div><strong>Last scan:</strong> <span id="lastScan">&mdash;</span></div>
+    <div id="errorBox" class="error" style="display:none"></div>
+    <div class="toolbar"><input id="search" placeholder="Search city..."><select id="filter"><option value="all">All statuses</option><option value="ranked">Ranked only</option><option value="top3">Top 3 only</option><option value="not">Not ranking / no results</option></select></div>
+    <table><thead><tr><th>City</th><th>Rank</th><th>Status</th><th>Total advertisers</th></tr></thead><tbody id="rows"></tbody></table>
+  </div>
 </main>
 <script>
+"use strict";
+const WORKFLOW_URL="https://github.com/yasin-ads/apex-lsa-dashboard/actions/workflows/scan.yml";
+const cityCountEl=document.getElementById("cityCount"),rankedCountEl=document.getElementById("rankedCount"),top3CountEl=document.getElementById("top3Count"),averageRankEl=document.getElementById("averageRank"),lastScanEl=document.getElementById("lastScan"),rowsEl=document.getElementById("rows"),searchEl=document.getElementById("search"),filterEl=document.getElementById("filter"),refreshBtn=document.getElementById("refresh"),runScanBtn=document.getElementById("runScan"),errorBox=document.getElementById("errorBox");
 let payload=null;
 function numericRank(rank){const m=String(rank||"").match(/^#(\d+)$/);return m?Number(m[1]):null}
 function rankClass(rank){const n=numericRank(rank);if(n===null)return"bad";if(n<=3)return"good";if(n<=10)return"warn";return""}
-function render(){if(!payload)return;const all=payload.results||[];const ranked=all.filter(r=>numericRank(r.Rank)!==null);const top3=ranked.filter(r=>numericRank(r.Rank)<=3);const avg=ranked.length?(ranked.reduce((s,r)=>s+numericRank(r.Rank),0)/ranked.length).toFixed(1):"â€”";cityCount.textContent=payload.city_count??all.length;rankedCount.textContent=ranked.length;top3Count.textContent=top3.length;averageRank.textContent=avg;lastScan.textContent=payload.checked_at_utc||"â€”";const term=search.value.trim().toLowerCase();const f=filter.value;const rowsData=all.filter(r=>{if(term&&!String(r.City).toLowerCase().includes(term))return false;const n=numericRank(r.Rank);if(f==="ranked"&&n===null)return false;if(f==="top3"&&!(n!==null&&n<=3))return false;if(f==="not"&&n!==null)return false;return true}).sort((a,b)=>(numericRank(a.Rank)??9999)-(numericRank(b.Rank)??9999)||String(a.City).localeCompare(String(b.City)));rows.innerHTML="";for(const r of rowsData){const tr=document.createElement("tr");tr.innerHTML=`<td>${r.City||""}</td><td class="rank ${rankClass(r.Rank)}">${r.Rank||"-"}</td><td class="status">${r.Status||""}</td><td>${r["Total Advertisers"]||"-"}</td>`;rows.appendChild(tr)}}
-async function loadData(){const res=await fetch(`data/latest.json?t=${Date.now()}`,{cache:"no-store"});payload=await res.json();render()}
-search.addEventListener("input",render);filter.addEventListener("change",render);refresh.addEventListener("click",loadData);loadData().catch(err=>{lastScan.textContent="Could not load data: "+err});
-<script>document.getElementById("runScan").onclick=function(){window.open("https://github.com/yasin-ads/apex-lsa-dashboard/actions/workflows/scan.yml","_blank");};</script></script>
+function render(){if(!payload)return;const all=Array.isArray(payload.results)?payload.results:[];const ranked=all.filter(r=>numericRank(r.Rank)!==null);const top3=ranked.filter(r=>numericRank(r.Rank)<=3);const avg=ranked.length?(ranked.reduce((s,r)=>s+numericRank(r.Rank),0)/ranked.length).toFixed(1):"—";cityCountEl.textContent=payload.city_count??all.length;rankedCountEl.textContent=ranked.length;top3CountEl.textContent=top3.length;averageRankEl.textContent=avg;lastScanEl.textContent=payload.checked_at_utc||"—";const term=searchEl.value.trim().toLowerCase(),f=filterEl.value;const filtered=all.filter(r=>{if(term&&!String(r.City||"").toLowerCase().includes(term))return false;const n=numericRank(r.Rank);if(f==="ranked"&&n===null)return false;if(f==="top3"&&!(n!==null&&n<=3))return false;if(f==="not"&&n!==null)return false;return true}).sort((a,b)=>(numericRank(a.Rank)??9999)-(numericRank(b.Rank)??9999)||String(a.City||"").localeCompare(String(b.City||"")));rowsEl.innerHTML="";for(const r of filtered){const tr=document.createElement("tr"),tdCity=document.createElement("td"),tdRank=document.createElement("td"),tdStatus=document.createElement("td"),tdTotal=document.createElement("td");tdCity.textContent=r.City||"";tdRank.className="rank "+rankClass(r.Rank);tdRank.textContent=r.Rank||"-";tdStatus.className="status";tdStatus.textContent=r.Status||"";tdTotal.textContent=r["Total Advertisers"]||"-";tr.append(tdCity,tdRank,tdStatus,tdTotal);rowsEl.appendChild(tr)}}
+async function loadData(){errorBox.style.display="none";const response=await fetch("data/latest.json?t="+Date.now(),{cache:"no-store"});if(!response.ok)throw new Error("HTTP "+response.status);payload=await response.json();render()}
+runScanBtn.addEventListener("click",()=>window.open(WORKFLOW_URL,"_blank","noopener"));
+refreshBtn.addEventListener("click",async()=>{refreshBtn.disabled=true;refreshBtn.textContent="Refreshing...";try{await loadData();refreshBtn.textContent="Results Updated"}catch(error){errorBox.textContent="Could not load ranking data: "+error.message;errorBox.style.display="block";refreshBtn.textContent="Refresh Failed"}finally{setTimeout(()=>{refreshBtn.textContent="↻ Refresh Results";refreshBtn.disabled=false},1200)}});
+searchEl.addEventListener("input",render);filterEl.addEventListener("change",render);
+loadData().catch(error=>{errorBox.textContent="Could not load ranking data: "+error.message;errorBox.style.display="block";lastScanEl.textContent="Data load failed"});
+</script>
 </body>
 </html>
-
