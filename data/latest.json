@@ -1,386 +1,386 @@
 {
   "business": "Apex Lock N Key",
   "category": "locksmith",
-  "checked_at_utc": "2026-08-11 02:27:38 UTC",
+  "checked_at_utc": "2026-08-11 07:36:51 UTC",
   "city_count": 54,
   "results": [
     {
       "City": "Acton, MA",
-      "Rank": "#4",
-      "Status": "RANKED",
+      "Rank": "-",
+      "Status": "NOT_RANKING",
       "Total Advertisers": "20",
-      "Checked At UTC": "2026-08-11 02:25:33 UTC"
+      "Checked At UTC": "2026-08-11 07:34:26 UTC"
     },
     {
       "City": "Andover, MA",
-      "Rank": "#4",
-      "Status": "RANKED",
+      "Rank": "-",
+      "Status": "NOT_RANKING",
       "Total Advertisers": "20",
-      "Checked At UTC": "2026-08-11 02:25:40 UTC"
+      "Checked At UTC": "2026-08-11 07:34:28 UTC"
     },
     {
       "City": "Arlington, MA",
-      "Rank": "#5",
-      "Status": "RANKED",
+      "Rank": "-",
+      "Status": "NOT_RANKING",
       "Total Advertisers": "20",
-      "Checked At UTC": "2026-08-11 02:25:42 UTC"
+      "Checked At UTC": "2026-08-11 07:34:30 UTC"
     },
     {
       "City": "Bedford, MA",
-      "Rank": "#4",
-      "Status": "RANKED",
+      "Rank": "-",
+      "Status": "NOT_RANKING",
       "Total Advertisers": "20",
-      "Checked At UTC": "2026-08-11 02:25:44 UTC"
+      "Checked At UTC": "2026-08-11 07:34:32 UTC"
     },
     {
       "City": "Belmont, MA",
-      "Rank": "#4",
-      "Status": "RANKED",
+      "Rank": "-",
+      "Status": "NOT_RANKING",
       "Total Advertisers": "20",
-      "Checked At UTC": "2026-08-11 02:25:46 UTC"
+      "Checked At UTC": "2026-08-11 07:34:43 UTC"
     },
     {
       "City": "Billerica, MA",
-      "Rank": "#4",
-      "Status": "RANKED",
+      "Rank": "-",
+      "Status": "NOT_RANKING",
       "Total Advertisers": "20",
-      "Checked At UTC": "2026-08-11 02:25:49 UTC"
+      "Checked At UTC": "2026-08-11 07:34:45 UTC"
     },
     {
       "City": "Boston, MA",
-      "Rank": "#4",
-      "Status": "RANKED",
+      "Rank": "-",
+      "Status": "NOT_RANKING",
       "Total Advertisers": "20",
-      "Checked At UTC": "2026-08-11 02:25:51 UTC"
+      "Checked At UTC": "2026-08-11 07:34:48 UTC"
     },
     {
       "City": "Braintree, MA",
-      "Rank": "#4",
-      "Status": "RANKED",
+      "Rank": "-",
+      "Status": "NOT_RANKING",
       "Total Advertisers": "20",
-      "Checked At UTC": "2026-08-11 02:25:52 UTC"
+      "Checked At UTC": "2026-08-11 07:34:50 UTC"
     },
     {
       "City": "Brookline, MA",
-      "Rank": "#4",
-      "Status": "RANKED",
+      "Rank": "-",
+      "Status": "NOT_RANKING",
       "Total Advertisers": "20",
-      "Checked At UTC": "2026-08-11 02:25:58 UTC"
+      "Checked At UTC": "2026-08-11 07:34:53 UTC"
     },
     {
       "City": "Burlington, MA",
-      "Rank": "#5",
-      "Status": "RANKED",
+      "Rank": "-",
+      "Status": "NOT_RANKING",
       "Total Advertisers": "20",
-      "Checked At UTC": "2026-08-11 02:26:00 UTC"
+      "Checked At UTC": "2026-08-11 07:35:00 UTC"
     },
     {
       "City": "Cambridge, MA",
-      "Rank": "#4",
-      "Status": "RANKED",
+      "Rank": "-",
+      "Status": "NOT_RANKING",
       "Total Advertisers": "20",
-      "Checked At UTC": "2026-08-11 02:26:01 UTC"
+      "Checked At UTC": "2026-08-11 07:35:03 UTC"
     },
     {
       "City": "Canton, MA",
-      "Rank": "#4",
-      "Status": "RANKED",
+      "Rank": "-",
+      "Status": "NOT_RANKING",
       "Total Advertisers": "20",
-      "Checked At UTC": "2026-08-11 02:26:03 UTC"
+      "Checked At UTC": "2026-08-11 07:35:04 UTC"
     },
     {
       "City": "Chelmsford, MA",
-      "Rank": "#4",
-      "Status": "RANKED",
+      "Rank": "-",
+      "Status": "NOT_RANKING",
       "Total Advertisers": "20",
-      "Checked At UTC": "2026-08-11 02:26:05 UTC"
+      "Checked At UTC": "2026-08-11 07:35:06 UTC"
     },
     {
       "City": "Chelsea, MA",
-      "Rank": "#5",
-      "Status": "RANKED",
+      "Rank": "-",
+      "Status": "NOT_RANKING",
       "Total Advertisers": "20",
-      "Checked At UTC": "2026-08-11 02:26:07 UTC"
+      "Checked At UTC": "2026-08-11 07:35:08 UTC"
     },
     {
       "City": "Concord, MA",
-      "Rank": "#5",
-      "Status": "RANKED",
+      "Rank": "-",
+      "Status": "NOT_RANKING",
       "Total Advertisers": "20",
-      "Checked At UTC": "2026-08-11 02:26:08 UTC"
+      "Checked At UTC": "2026-08-11 07:35:12 UTC"
     },
     {
       "City": "Dedham, MA",
-      "Rank": "#4",
-      "Status": "RANKED",
+      "Rank": "-",
+      "Status": "NOT_RANKING",
       "Total Advertisers": "20",
-      "Checked At UTC": "2026-08-11 02:26:10 UTC"
+      "Checked At UTC": "2026-08-11 07:35:14 UTC"
     },
     {
       "City": "Dracut, MA",
-      "Rank": "#3",
-      "Status": "RANKED",
+      "Rank": "-",
+      "Status": "NOT_RANKING",
       "Total Advertisers": "20",
-      "Checked At UTC": "2026-08-11 02:26:12 UTC"
+      "Checked At UTC": "2026-08-11 07:35:16 UTC"
     },
     {
       "City": "Everett, MA",
-      "Rank": "#4",
-      "Status": "RANKED",
+      "Rank": "-",
+      "Status": "NOT_RANKING",
       "Total Advertisers": "20",
-      "Checked At UTC": "2026-08-11 02:26:13 UTC"
+      "Checked At UTC": "2026-08-11 07:35:18 UTC"
     },
     {
       "City": "Framingham, MA",
-      "Rank": "#4",
-      "Status": "RANKED",
+      "Rank": "-",
+      "Status": "NOT_RANKING",
       "Total Advertisers": "20",
-      "Checked At UTC": "2026-08-11 02:26:15 UTC"
+      "Checked At UTC": "2026-08-11 07:35:20 UTC"
     },
     {
       "City": "Haverhill, MA",
-      "Rank": "#3",
+      "Rank": "#15",
       "Status": "RANKED",
       "Total Advertisers": "19",
-      "Checked At UTC": "2026-08-11 02:26:17 UTC"
+      "Checked At UTC": "2026-08-11 07:35:22 UTC"
     },
     {
       "City": "Lawrence, MA",
-      "Rank": "#4",
+      "Rank": "#15",
       "Status": "RANKED",
       "Total Advertisers": "19",
-      "Checked At UTC": "2026-08-11 02:26:19 UTC"
+      "Checked At UTC": "2026-08-11 07:35:25 UTC"
     },
     {
       "City": "Lexington, MA",
-      "Rank": "#5",
-      "Status": "RANKED",
+      "Rank": "-",
+      "Status": "NOT_RANKING",
       "Total Advertisers": "20",
-      "Checked At UTC": "2026-08-11 02:26:21 UTC"
+      "Checked At UTC": "2026-08-11 07:35:27 UTC"
     },
     {
       "City": "Littleton, MA",
-      "Rank": "#4",
-      "Status": "RANKED",
+      "Rank": "-",
+      "Status": "NOT_RANKING",
       "Total Advertisers": "20",
-      "Checked At UTC": "2026-08-11 02:26:23 UTC"
+      "Checked At UTC": "2026-08-11 07:35:29 UTC"
     },
     {
       "City": "Lowell, MA",
-      "Rank": "#4",
-      "Status": "RANKED",
+      "Rank": "-",
+      "Status": "NOT_RANKING",
       "Total Advertisers": "20",
-      "Checked At UTC": "2026-08-11 02:26:26 UTC"
+      "Checked At UTC": "2026-08-11 07:35:31 UTC"
     },
     {
       "City": "Malden, MA",
-      "Rank": "#4",
-      "Status": "RANKED",
+      "Rank": "-",
+      "Status": "NOT_RANKING",
       "Total Advertisers": "20",
-      "Checked At UTC": "2026-08-11 02:26:27 UTC"
+      "Checked At UTC": "2026-08-11 07:35:33 UTC"
     },
     {
       "City": "Marlborough, MA",
-      "Rank": "#4",
-      "Status": "RANKED",
+      "Rank": "-",
+      "Status": "NOT_RANKING",
       "Total Advertisers": "20",
-      "Checked At UTC": "2026-08-11 02:26:30 UTC"
+      "Checked At UTC": "2026-08-11 07:35:36 UTC"
     },
     {
       "City": "Medford, MA",
-      "Rank": "#4",
-      "Status": "RANKED",
+      "Rank": "-",
+      "Status": "NOT_RANKING",
       "Total Advertisers": "20",
-      "Checked At UTC": "2026-08-11 02:26:35 UTC"
+      "Checked At UTC": "2026-08-11 07:35:38 UTC"
     },
     {
       "City": "Melrose, MA",
-      "Rank": "#4",
-      "Status": "RANKED",
+      "Rank": "-",
+      "Status": "NOT_RANKING",
       "Total Advertisers": "20",
-      "Checked At UTC": "2026-08-11 02:26:37 UTC"
+      "Checked At UTC": "2026-08-11 07:35:40 UTC"
     },
     {
       "City": "Methuen, MA",
-      "Rank": "#3",
+      "Rank": "#16",
       "Status": "RANKED",
       "Total Advertisers": "20",
-      "Checked At UTC": "2026-08-11 02:26:39 UTC"
+      "Checked At UTC": "2026-08-11 07:35:47 UTC"
     },
     {
       "City": "Milton, MA",
-      "Rank": "#4",
-      "Status": "RANKED",
+      "Rank": "-",
+      "Status": "NOT_RANKING",
       "Total Advertisers": "20",
-      "Checked At UTC": "2026-08-11 02:26:40 UTC"
+      "Checked At UTC": "2026-08-11 07:35:49 UTC"
     },
     {
       "City": "Natick, MA",
-      "Rank": "#4",
-      "Status": "RANKED",
+      "Rank": "-",
+      "Status": "NOT_RANKING",
       "Total Advertisers": "20",
-      "Checked At UTC": "2026-08-11 02:26:43 UTC"
+      "Checked At UTC": "2026-08-11 07:35:51 UTC"
     },
     {
       "City": "Needham, MA",
-      "Rank": "#4",
-      "Status": "RANKED",
+      "Rank": "-",
+      "Status": "NOT_RANKING",
       "Total Advertisers": "20",
-      "Checked At UTC": "2026-08-11 02:26:45 UTC"
+      "Checked At UTC": "2026-08-11 07:35:53 UTC"
     },
     {
       "City": "Newton, MA",
-      "Rank": "#4",
-      "Status": "RANKED",
+      "Rank": "-",
+      "Status": "NOT_RANKING",
       "Total Advertisers": "20",
-      "Checked At UTC": "2026-08-11 02:26:47 UTC"
+      "Checked At UTC": "2026-08-11 07:35:55 UTC"
     },
     {
       "City": "North Andover, MA",
-      "Rank": "#4",
+      "Rank": "#18",
       "Status": "RANKED",
       "Total Advertisers": "20",
-      "Checked At UTC": "2026-08-11 02:26:48 UTC"
+      "Checked At UTC": "2026-08-11 07:35:58 UTC"
     },
     {
       "City": "Norwood, MA",
-      "Rank": "#4",
-      "Status": "RANKED",
+      "Rank": "-",
+      "Status": "NOT_RANKING",
       "Total Advertisers": "20",
-      "Checked At UTC": "2026-08-11 02:26:50 UTC"
+      "Checked At UTC": "2026-08-11 07:36:02 UTC"
     },
     {
       "City": "Quincy, MA",
-      "Rank": "#4",
-      "Status": "RANKED",
+      "Rank": "-",
+      "Status": "NOT_RANKING",
       "Total Advertisers": "20",
-      "Checked At UTC": "2026-08-11 02:26:57 UTC"
+      "Checked At UTC": "2026-08-11 07:36:04 UTC"
     },
     {
       "City": "Reading, MA",
-      "Rank": "#4",
-      "Status": "RANKED",
+      "Rank": "-",
+      "Status": "NOT_RANKING",
       "Total Advertisers": "20",
-      "Checked At UTC": "2026-08-11 02:26:59 UTC"
+      "Checked At UTC": "2026-08-11 07:36:06 UTC"
     },
     {
       "City": "Revere, MA",
-      "Rank": "#4",
-      "Status": "RANKED",
+      "Rank": "-",
+      "Status": "NOT_RANKING",
       "Total Advertisers": "20",
-      "Checked At UTC": "2026-08-11 02:27:00 UTC"
+      "Checked At UTC": "2026-08-11 07:36:07 UTC"
     },
     {
       "City": "Somerville, MA",
-      "Rank": "#4",
-      "Status": "RANKED",
+      "Rank": "-",
+      "Status": "NOT_RANKING",
       "Total Advertisers": "20",
-      "Checked At UTC": "2026-08-11 02:27:03 UTC"
+      "Checked At UTC": "2026-08-11 07:36:09 UTC"
     },
     {
       "City": "Stoneham, MA",
-      "Rank": "#4",
-      "Status": "RANKED",
+      "Rank": "-",
+      "Status": "NOT_RANKING",
       "Total Advertisers": "20",
-      "Checked At UTC": "2026-08-11 02:27:05 UTC"
+      "Checked At UTC": "2026-08-11 07:36:11 UTC"
     },
     {
       "City": "Sudbury, MA",
-      "Rank": "#4",
-      "Status": "RANKED",
+      "Rank": "-",
+      "Status": "NOT_RANKING",
       "Total Advertisers": "20",
-      "Checked At UTC": "2026-08-11 02:27:07 UTC"
+      "Checked At UTC": "2026-08-11 07:36:14 UTC"
     },
     {
       "City": "Tewksbury, MA",
-      "Rank": "#4",
-      "Status": "RANKED",
+      "Rank": "-",
+      "Status": "NOT_RANKING",
       "Total Advertisers": "20",
-      "Checked At UTC": "2026-08-11 02:27:09 UTC"
+      "Checked At UTC": "2026-08-11 07:36:15 UTC"
     },
     {
       "City": "Wakefield, MA",
-      "Rank": "#4",
-      "Status": "RANKED",
+      "Rank": "-",
+      "Status": "NOT_RANKING",
       "Total Advertisers": "20",
-      "Checked At UTC": "2026-08-11 02:27:11 UTC"
+      "Checked At UTC": "2026-08-11 07:36:18 UTC"
     },
     {
       "City": "Waltham, MA",
-      "Rank": "#4",
-      "Status": "RANKED",
+      "Rank": "-",
+      "Status": "NOT_RANKING",
       "Total Advertisers": "20",
-      "Checked At UTC": "2026-08-11 02:27:13 UTC"
+      "Checked At UTC": "2026-08-11 07:36:21 UTC"
     },
     {
       "City": "Watertown, MA",
-      "Rank": "#4",
-      "Status": "RANKED",
+      "Rank": "-",
+      "Status": "NOT_RANKING",
       "Total Advertisers": "20",
-      "Checked At UTC": "2026-08-11 02:27:15 UTC"
+      "Checked At UTC": "2026-08-11 07:36:23 UTC"
     },
     {
       "City": "Wayland, MA",
-      "Rank": "#4",
-      "Status": "RANKED",
+      "Rank": "-",
+      "Status": "NOT_RANKING",
       "Total Advertisers": "20",
-      "Checked At UTC": "2026-08-11 02:27:16 UTC"
+      "Checked At UTC": "2026-08-11 07:36:25 UTC"
     },
     {
       "City": "Wellesley, MA",
-      "Rank": "#4",
-      "Status": "RANKED",
+      "Rank": "-",
+      "Status": "NOT_RANKING",
       "Total Advertisers": "20",
-      "Checked At UTC": "2026-08-11 02:27:19 UTC"
+      "Checked At UTC": "2026-08-11 07:36:28 UTC"
     },
     {
       "City": "Westford, MA",
-      "Rank": "#4",
-      "Status": "RANKED",
+      "Rank": "-",
+      "Status": "NOT_RANKING",
       "Total Advertisers": "20",
-      "Checked At UTC": "2026-08-11 02:27:20 UTC"
+      "Checked At UTC": "2026-08-11 07:36:36 UTC"
     },
     {
       "City": "Weston, MA",
-      "Rank": "#4",
-      "Status": "RANKED",
+      "Rank": "-",
+      "Status": "NOT_RANKING",
       "Total Advertisers": "20",
-      "Checked At UTC": "2026-08-11 02:27:22 UTC"
+      "Checked At UTC": "2026-08-11 07:36:38 UTC"
     },
     {
       "City": "Westwood, MA",
-      "Rank": "#4",
-      "Status": "RANKED",
+      "Rank": "-",
+      "Status": "NOT_RANKING",
       "Total Advertisers": "20",
-      "Checked At UTC": "2026-08-11 02:27:29 UTC"
+      "Checked At UTC": "2026-08-11 07:36:41 UTC"
     },
     {
       "City": "Wilmington, MA",
-      "Rank": "#4",
-      "Status": "RANKED",
+      "Rank": "-",
+      "Status": "NOT_RANKING",
       "Total Advertisers": "20",
-      "Checked At UTC": "2026-08-11 02:27:31 UTC"
+      "Checked At UTC": "2026-08-11 07:36:44 UTC"
     },
     {
       "City": "Winchester, MA",
-      "Rank": "#5",
-      "Status": "RANKED",
+      "Rank": "-",
+      "Status": "NOT_RANKING",
       "Total Advertisers": "20",
-      "Checked At UTC": "2026-08-11 02:27:33 UTC"
+      "Checked At UTC": "2026-08-11 07:36:45 UTC"
     },
     {
       "City": "Winthrop, MA",
-      "Rank": "#4",
-      "Status": "RANKED",
+      "Rank": "-",
+      "Status": "NOT_RANKING",
       "Total Advertisers": "20",
-      "Checked At UTC": "2026-08-11 02:27:35 UTC"
+      "Checked At UTC": "2026-08-11 07:36:47 UTC"
     },
     {
       "City": "Woburn, MA",
-      "Rank": "#5",
-      "Status": "RANKED",
+      "Rank": "-",
+      "Status": "NOT_RANKING",
       "Total Advertisers": "20",
-      "Checked At UTC": "2026-08-11 02:27:36 UTC"
+      "Checked At UTC": "2026-08-11 07:36:49 UTC"
     }
   ]
 }
