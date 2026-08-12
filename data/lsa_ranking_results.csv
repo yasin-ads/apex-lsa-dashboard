@@ -1,55 +1,55 @@
 ﻿City,Rank,Status,Total Advertisers,Checked At UTC
-"Acton, MA",#2,RANKED,20,2026-08-12 14:41:49 UTC
-"Andover, MA",#2,RANKED,20,2026-08-12 14:41:50 UTC
-"Arlington, MA",#2,RANKED,20,2026-08-12 14:41:51 UTC
-"Bedford, MA",#2,RANKED,20,2026-08-12 14:41:52 UTC
-"Belmont, MA",#2,RANKED,20,2026-08-12 14:41:53 UTC
-"Billerica, MA",#2,RANKED,20,2026-08-12 14:41:54 UTC
-"Boston, MA",#2,RANKED,20,2026-08-12 14:41:55 UTC
-"Braintree, MA",#2,RANKED,20,2026-08-12 14:41:56 UTC
-"Brookline, MA",#2,RANKED,20,2026-08-12 14:41:57 UTC
-"Burlington, MA",#2,RANKED,20,2026-08-12 14:41:58 UTC
-"Cambridge, MA",#2,RANKED,20,2026-08-12 14:41:59 UTC
-"Canton, MA",-,API_ERROR: API request failed after 3 attempts: HTTP Error 429: Too Many Requests,,2026-08-12 14:42:00 UTC
-"Chelmsford, MA",-,API_ERROR: API request failed after 3 attempts: HTTP Error 429: Too Many Requests,,2026-08-12 14:42:10 UTC
-"Chelsea, MA",-,API_ERROR: API request failed after 3 attempts: HTTP Error 429: Too Many Requests,,2026-08-12 14:42:20 UTC
-"Concord, MA",-,API_ERROR: API request failed after 3 attempts: HTTP Error 429: Too Many Requests,,2026-08-12 14:42:30 UTC
-"Dedham, MA",-,API_ERROR: API request failed after 3 attempts: HTTP Error 429: Too Many Requests,,2026-08-12 14:42:40 UTC
-"Dracut, MA",-,API_ERROR: API request failed after 3 attempts: HTTP Error 429: Too Many Requests,,2026-08-12 14:42:50 UTC
-"Everett, MA",-,API_ERROR: API request failed after 3 attempts: HTTP Error 429: Too Many Requests,,2026-08-12 14:43:00 UTC
-"Framingham, MA",-,API_ERROR: API request failed after 3 attempts: HTTP Error 429: Too Many Requests,,2026-08-12 14:43:10 UTC
-"Haverhill, MA",-,API_ERROR: API request failed after 3 attempts: HTTP Error 429: Too Many Requests,,2026-08-12 14:43:21 UTC
-"Lawrence, MA",-,API_ERROR: API request failed after 3 attempts: HTTP Error 429: Too Many Requests,,2026-08-12 14:43:31 UTC
-"Lexington, MA",-,API_ERROR: API request failed after 3 attempts: HTTP Error 429: Too Many Requests,,2026-08-12 14:43:41 UTC
-"Littleton, MA",-,API_ERROR: API request failed after 3 attempts: HTTP Error 429: Too Many Requests,,2026-08-12 14:43:51 UTC
-"Lowell, MA",-,API_ERROR: API request failed after 3 attempts: HTTP Error 429: Too Many Requests,,2026-08-12 14:44:01 UTC
-"Malden, MA",-,API_ERROR: API request failed after 3 attempts: HTTP Error 429: Too Many Requests,,2026-08-12 14:44:11 UTC
-"Marlborough, MA",-,API_ERROR: API request failed after 3 attempts: HTTP Error 429: Too Many Requests,,2026-08-12 14:44:21 UTC
-"Medford, MA",-,API_ERROR: API request failed after 3 attempts: HTTP Error 429: Too Many Requests,,2026-08-12 14:44:31 UTC
-"Melrose, MA",-,API_ERROR: API request failed after 3 attempts: HTTP Error 429: Too Many Requests,,2026-08-12 14:44:41 UTC
-"Methuen, MA",-,API_ERROR: API request failed after 3 attempts: HTTP Error 429: Too Many Requests,,2026-08-12 14:44:51 UTC
-"Milton, MA",-,API_ERROR: API request failed after 3 attempts: HTTP Error 429: Too Many Requests,,2026-08-12 14:45:01 UTC
-"Natick, MA",-,API_ERROR: API request failed after 3 attempts: HTTP Error 429: Too Many Requests,,2026-08-12 14:45:11 UTC
-"Needham, MA",-,API_ERROR: API request failed after 3 attempts: HTTP Error 429: Too Many Requests,,2026-08-12 14:45:22 UTC
-"Newton, MA",-,API_ERROR: API request failed after 3 attempts: HTTP Error 429: Too Many Requests,,2026-08-12 14:45:32 UTC
-"North Andover, MA",-,API_ERROR: API request failed after 3 attempts: HTTP Error 429: Too Many Requests,,2026-08-12 14:45:42 UTC
-"Norwood, MA",-,API_ERROR: API request failed after 3 attempts: HTTP Error 429: Too Many Requests,,2026-08-12 14:45:52 UTC
-"Quincy, MA",-,API_ERROR: API request failed after 3 attempts: HTTP Error 429: Too Many Requests,,2026-08-12 14:46:02 UTC
-"Reading, MA",-,API_ERROR: API request failed after 3 attempts: HTTP Error 429: Too Many Requests,,2026-08-12 14:46:12 UTC
-"Revere, MA",-,API_ERROR: API request failed after 3 attempts: HTTP Error 429: Too Many Requests,,2026-08-12 14:46:22 UTC
-"Somerville, MA",-,API_ERROR: API request failed after 3 attempts: HTTP Error 429: Too Many Requests,,2026-08-12 14:46:32 UTC
-"Stoneham, MA",-,API_ERROR: API request failed after 3 attempts: HTTP Error 429: Too Many Requests,,2026-08-12 14:46:42 UTC
-"Sudbury, MA",-,API_ERROR: API request failed after 3 attempts: HTTP Error 429: Too Many Requests,,2026-08-12 14:46:53 UTC
-"Tewksbury, MA",-,API_ERROR: API request failed after 3 attempts: HTTP Error 429: Too Many Requests,,2026-08-12 14:47:03 UTC
-"Wakefield, MA",-,API_ERROR: API request failed after 3 attempts: HTTP Error 429: Too Many Requests,,2026-08-12 14:47:13 UTC
-"Waltham, MA",-,API_ERROR: API request failed after 3 attempts: HTTP Error 429: Too Many Requests,,2026-08-12 14:47:23 UTC
-"Watertown, MA",-,API_ERROR: API request failed after 3 attempts: HTTP Error 429: Too Many Requests,,2026-08-12 14:47:33 UTC
-"Wayland, MA",-,API_ERROR: API request failed after 3 attempts: HTTP Error 429: Too Many Requests,,2026-08-12 14:47:43 UTC
-"Wellesley, MA",-,API_ERROR: API request failed after 3 attempts: HTTP Error 429: Too Many Requests,,2026-08-12 14:47:53 UTC
-"Westford, MA",-,API_ERROR: API request failed after 3 attempts: HTTP Error 429: Too Many Requests,,2026-08-12 14:48:03 UTC
-"Weston, MA",-,API_ERROR: API request failed after 3 attempts: HTTP Error 429: Too Many Requests,,2026-08-12 14:48:14 UTC
-"Westwood, MA",-,API_ERROR: API request failed after 3 attempts: HTTP Error 429: Too Many Requests,,2026-08-12 14:48:24 UTC
-"Wilmington, MA",-,API_ERROR: API request failed after 3 attempts: HTTP Error 429: Too Many Requests,,2026-08-12 14:48:34 UTC
-"Winchester, MA",-,API_ERROR: API request failed after 3 attempts: HTTP Error 429: Too Many Requests,,2026-08-12 14:48:44 UTC
-"Winthrop, MA",-,API_ERROR: API request failed after 3 attempts: HTTP Error 429: Too Many Requests,,2026-08-12 14:48:54 UTC
-"Woburn, MA",-,API_ERROR: API request failed after 3 attempts: HTTP Error 429: Too Many Requests,,2026-08-12 14:49:04 UTC
+"Acton, MA",-,API_ERROR: API request failed after 3 attempts: HTTP Error 429: Too Many Requests,,2026-08-12 19:17:50 UTC
+"Andover, MA",-,API_ERROR: API request failed after 3 attempts: HTTP Error 429: Too Many Requests,,2026-08-12 19:18:00 UTC
+"Arlington, MA",-,API_ERROR: API request failed after 3 attempts: HTTP Error 429: Too Many Requests,,2026-08-12 19:18:10 UTC
+"Bedford, MA",-,API_ERROR: API request failed after 3 attempts: HTTP Error 429: Too Many Requests,,2026-08-12 19:18:20 UTC
+"Belmont, MA",-,API_ERROR: API request failed after 3 attempts: HTTP Error 429: Too Many Requests,,2026-08-12 19:18:30 UTC
+"Billerica, MA",-,API_ERROR: API request failed after 3 attempts: HTTP Error 429: Too Many Requests,,2026-08-12 19:18:40 UTC
+"Boston, MA",-,API_ERROR: API request failed after 3 attempts: HTTP Error 429: Too Many Requests,,2026-08-12 19:18:50 UTC
+"Braintree, MA",-,API_ERROR: API request failed after 3 attempts: HTTP Error 429: Too Many Requests,,2026-08-12 19:19:01 UTC
+"Brookline, MA",-,API_ERROR: API request failed after 3 attempts: HTTP Error 429: Too Many Requests,,2026-08-12 19:19:11 UTC
+"Burlington, MA",-,API_ERROR: API request failed after 3 attempts: HTTP Error 429: Too Many Requests,,2026-08-12 19:19:21 UTC
+"Cambridge, MA",-,API_ERROR: API request failed after 3 attempts: HTTP Error 429: Too Many Requests,,2026-08-12 19:19:31 UTC
+"Canton, MA",-,API_ERROR: API request failed after 3 attempts: HTTP Error 429: Too Many Requests,,2026-08-12 19:19:41 UTC
+"Chelmsford, MA",-,API_ERROR: API request failed after 3 attempts: HTTP Error 429: Too Many Requests,,2026-08-12 19:19:51 UTC
+"Chelsea, MA",-,API_ERROR: API request failed after 3 attempts: HTTP Error 429: Too Many Requests,,2026-08-12 19:20:01 UTC
+"Concord, MA",-,API_ERROR: API request failed after 3 attempts: HTTP Error 429: Too Many Requests,,2026-08-12 19:20:11 UTC
+"Dedham, MA",-,API_ERROR: API request failed after 3 attempts: HTTP Error 429: Too Many Requests,,2026-08-12 19:20:21 UTC
+"Dracut, MA",-,API_ERROR: API request failed after 3 attempts: HTTP Error 429: Too Many Requests,,2026-08-12 19:20:31 UTC
+"Everett, MA",-,API_ERROR: API request failed after 3 attempts: HTTP Error 429: Too Many Requests,,2026-08-12 19:20:42 UTC
+"Framingham, MA",-,API_ERROR: API request failed after 3 attempts: HTTP Error 429: Too Many Requests,,2026-08-12 19:20:52 UTC
+"Haverhill, MA",-,API_ERROR: API request failed after 3 attempts: HTTP Error 429: Too Many Requests,,2026-08-12 19:21:02 UTC
+"Lawrence, MA",-,API_ERROR: API request failed after 3 attempts: HTTP Error 429: Too Many Requests,,2026-08-12 19:21:12 UTC
+"Lexington, MA",-,API_ERROR: API request failed after 3 attempts: HTTP Error 429: Too Many Requests,,2026-08-12 19:21:22 UTC
+"Littleton, MA",-,API_ERROR: API request failed after 3 attempts: HTTP Error 429: Too Many Requests,,2026-08-12 19:21:32 UTC
+"Lowell, MA",-,API_ERROR: API request failed after 3 attempts: HTTP Error 429: Too Many Requests,,2026-08-12 19:21:42 UTC
+"Malden, MA",-,API_ERROR: API request failed after 3 attempts: HTTP Error 429: Too Many Requests,,2026-08-12 19:21:52 UTC
+"Marlborough, MA",-,API_ERROR: API request failed after 3 attempts: HTTP Error 429: Too Many Requests,,2026-08-12 19:22:02 UTC
+"Medford, MA",-,API_ERROR: API request failed after 3 attempts: HTTP Error 429: Too Many Requests,,2026-08-12 19:22:12 UTC
+"Melrose, MA",-,API_ERROR: API request failed after 3 attempts: HTTP Error 429: Too Many Requests,,2026-08-12 19:22:22 UTC
+"Methuen, MA",-,API_ERROR: API request failed after 3 attempts: HTTP Error 429: Too Many Requests,,2026-08-12 19:22:33 UTC
+"Milton, MA",-,API_ERROR: API request failed after 3 attempts: HTTP Error 429: Too Many Requests,,2026-08-12 19:22:43 UTC
+"Natick, MA",-,API_ERROR: API request failed after 3 attempts: HTTP Error 429: Too Many Requests,,2026-08-12 19:22:53 UTC
+"Needham, MA",-,API_ERROR: API request failed after 3 attempts: HTTP Error 429: Too Many Requests,,2026-08-12 19:23:03 UTC
+"Newton, MA",-,API_ERROR: API request failed after 3 attempts: HTTP Error 429: Too Many Requests,,2026-08-12 19:23:13 UTC
+"North Andover, MA",-,API_ERROR: API request failed after 3 attempts: HTTP Error 429: Too Many Requests,,2026-08-12 19:23:23 UTC
+"Norwood, MA",-,API_ERROR: API request failed after 3 attempts: HTTP Error 429: Too Many Requests,,2026-08-12 19:23:33 UTC
+"Quincy, MA",-,API_ERROR: API request failed after 3 attempts: HTTP Error 429: Too Many Requests,,2026-08-12 19:23:43 UTC
+"Reading, MA",-,API_ERROR: API request failed after 3 attempts: HTTP Error 429: Too Many Requests,,2026-08-12 19:23:53 UTC
+"Revere, MA",-,API_ERROR: API request failed after 3 attempts: HTTP Error 429: Too Many Requests,,2026-08-12 19:24:03 UTC
+"Somerville, MA",-,API_ERROR: API request failed after 3 attempts: HTTP Error 429: Too Many Requests,,2026-08-12 19:24:14 UTC
+"Stoneham, MA",-,API_ERROR: API request failed after 3 attempts: HTTP Error 429: Too Many Requests,,2026-08-12 19:24:24 UTC
+"Sudbury, MA",-,API_ERROR: API request failed after 3 attempts: HTTP Error 429: Too Many Requests,,2026-08-12 19:24:34 UTC
+"Tewksbury, MA",-,API_ERROR: API request failed after 3 attempts: HTTP Error 429: Too Many Requests,,2026-08-12 19:24:44 UTC
+"Wakefield, MA",-,API_ERROR: API request failed after 3 attempts: HTTP Error 429: Too Many Requests,,2026-08-12 19:24:54 UTC
+"Waltham, MA",-,API_ERROR: API request failed after 3 attempts: HTTP Error 429: Too Many Requests,,2026-08-12 19:25:04 UTC
+"Watertown, MA",-,API_ERROR: API request failed after 3 attempts: HTTP Error 429: Too Many Requests,,2026-08-12 19:25:14 UTC
+"Wayland, MA",-,API_ERROR: API request failed after 3 attempts: HTTP Error 429: Too Many Requests,,2026-08-12 19:25:24 UTC
+"Wellesley, MA",-,API_ERROR: API request failed after 3 attempts: HTTP Error 429: Too Many Requests,,2026-08-12 19:25:34 UTC
+"Westford, MA",-,API_ERROR: API request failed after 3 attempts: HTTP Error 429: Too Many Requests,,2026-08-12 19:25:44 UTC
+"Weston, MA",-,API_ERROR: API request failed after 3 attempts: HTTP Error 429: Too Many Requests,,2026-08-12 19:25:54 UTC
+"Westwood, MA",-,API_ERROR: API request failed after 3 attempts: HTTP Error 429: Too Many Requests,,2026-08-12 19:26:05 UTC
+"Wilmington, MA",-,API_ERROR: API request failed after 3 attempts: HTTP Error 429: Too Many Requests,,2026-08-12 19:26:16 UTC
+"Winchester, MA",-,API_ERROR: API request failed after 3 attempts: HTTP Error 429: Too Many Requests,,2026-08-12 19:26:26 UTC
+"Winthrop, MA",-,API_ERROR: API request failed after 3 attempts: HTTP Error 429: Too Many Requests,,2026-08-12 19:26:37 UTC
+"Woburn, MA",-,API_ERROR: API request failed after 3 attempts: HTTP Error 429: Too Many Requests,,2026-08-12 19:26:47 UTC
