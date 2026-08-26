@@ -1,7 +1,7 @@
 {
   "business": "Apex Lock N Key",
   "category": "locksmith",
-  "checked_at_utc": "2026-08-26 13:23:26 UTC",
+  "checked_at_utc": "2026-08-26 20:10:41 UTC",
   "city_count": 54,
   "results": [
     {
@@ -9,378 +9,378 @@
       "Rank": "-",
       "Status": "API_ERROR: API request failed after 3 attempts: HTTP Error 429: Too Many Requests",
       "Total Advertisers": "",
-      "Checked At UTC": "2026-08-26 13:14:13 UTC"
+      "Checked At UTC": "2026-08-26 20:01:22 UTC"
     },
     {
       "City": "Andover, MA",
       "Rank": "-",
       "Status": "API_ERROR: API request failed after 3 attempts: HTTP Error 429: Too Many Requests",
       "Total Advertisers": "",
-      "Checked At UTC": "2026-08-26 13:14:23 UTC"
+      "Checked At UTC": "2026-08-26 20:01:33 UTC"
     },
     {
       "City": "Arlington, MA",
       "Rank": "-",
       "Status": "API_ERROR: API request failed after 3 attempts: HTTP Error 429: Too Many Requests",
       "Total Advertisers": "",
-      "Checked At UTC": "2026-08-26 13:14:33 UTC"
+      "Checked At UTC": "2026-08-26 20:01:43 UTC"
     },
     {
       "City": "Bedford, MA",
       "Rank": "-",
       "Status": "API_ERROR: API request failed after 3 attempts: HTTP Error 429: Too Many Requests",
       "Total Advertisers": "",
-      "Checked At UTC": "2026-08-26 13:14:43 UTC"
+      "Checked At UTC": "2026-08-26 20:01:53 UTC"
     },
     {
       "City": "Belmont, MA",
       "Rank": "-",
       "Status": "API_ERROR: API request failed after 3 attempts: HTTP Error 429: Too Many Requests",
       "Total Advertisers": "",
-      "Checked At UTC": "2026-08-26 13:14:54 UTC"
+      "Checked At UTC": "2026-08-26 20:02:04 UTC"
     },
     {
       "City": "Billerica, MA",
       "Rank": "-",
       "Status": "API_ERROR: API request failed after 3 attempts: HTTP Error 429: Too Many Requests",
       "Total Advertisers": "",
-      "Checked At UTC": "2026-08-26 13:15:04 UTC"
+      "Checked At UTC": "2026-08-26 20:02:14 UTC"
     },
     {
       "City": "Boston, MA",
       "Rank": "-",
       "Status": "API_ERROR: API request failed after 3 attempts: HTTP Error 429: Too Many Requests",
       "Total Advertisers": "",
-      "Checked At UTC": "2026-08-26 13:15:14 UTC"
+      "Checked At UTC": "2026-08-26 20:02:24 UTC"
     },
     {
       "City": "Braintree, MA",
       "Rank": "-",
       "Status": "API_ERROR: API request failed after 3 attempts: HTTP Error 429: Too Many Requests",
       "Total Advertisers": "",
-      "Checked At UTC": "2026-08-26 13:15:24 UTC"
+      "Checked At UTC": "2026-08-26 20:02:35 UTC"
     },
     {
       "City": "Brookline, MA",
       "Rank": "-",
       "Status": "API_ERROR: API request failed after 3 attempts: HTTP Error 429: Too Many Requests",
       "Total Advertisers": "",
-      "Checked At UTC": "2026-08-26 13:15:35 UTC"
+      "Checked At UTC": "2026-08-26 20:02:45 UTC"
     },
     {
       "City": "Burlington, MA",
       "Rank": "-",
       "Status": "API_ERROR: API request failed after 3 attempts: HTTP Error 429: Too Many Requests",
       "Total Advertisers": "",
-      "Checked At UTC": "2026-08-26 13:15:45 UTC"
+      "Checked At UTC": "2026-08-26 20:02:55 UTC"
     },
     {
       "City": "Cambridge, MA",
       "Rank": "-",
       "Status": "API_ERROR: API request failed after 3 attempts: HTTP Error 429: Too Many Requests",
       "Total Advertisers": "",
-      "Checked At UTC": "2026-08-26 13:15:55 UTC"
+      "Checked At UTC": "2026-08-26 20:03:06 UTC"
     },
     {
       "City": "Canton, MA",
       "Rank": "-",
       "Status": "API_ERROR: API request failed after 3 attempts: HTTP Error 429: Too Many Requests",
       "Total Advertisers": "",
-      "Checked At UTC": "2026-08-26 13:16:05 UTC"
+      "Checked At UTC": "2026-08-26 20:03:16 UTC"
     },
     {
       "City": "Chelmsford, MA",
       "Rank": "-",
       "Status": "API_ERROR: API request failed after 3 attempts: HTTP Error 429: Too Many Requests",
       "Total Advertisers": "",
-      "Checked At UTC": "2026-08-26 13:16:16 UTC"
+      "Checked At UTC": "2026-08-26 20:03:26 UTC"
     },
     {
       "City": "Chelsea, MA",
       "Rank": "-",
       "Status": "API_ERROR: API request failed after 3 attempts: HTTP Error 429: Too Many Requests",
       "Total Advertisers": "",
-      "Checked At UTC": "2026-08-26 13:16:26 UTC"
+      "Checked At UTC": "2026-08-26 20:03:37 UTC"
     },
     {
       "City": "Concord, MA",
       "Rank": "-",
       "Status": "API_ERROR: API request failed after 3 attempts: HTTP Error 429: Too Many Requests",
       "Total Advertisers": "",
-      "Checked At UTC": "2026-08-26 13:16:36 UTC"
+      "Checked At UTC": "2026-08-26 20:03:47 UTC"
     },
     {
       "City": "Dedham, MA",
       "Rank": "-",
       "Status": "API_ERROR: API request failed after 3 attempts: HTTP Error 429: Too Many Requests",
       "Total Advertisers": "",
-      "Checked At UTC": "2026-08-26 13:16:46 UTC"
+      "Checked At UTC": "2026-08-26 20:03:57 UTC"
     },
     {
       "City": "Dracut, MA",
       "Rank": "-",
       "Status": "API_ERROR: API request failed after 3 attempts: HTTP Error 429: Too Many Requests",
       "Total Advertisers": "",
-      "Checked At UTC": "2026-08-26 13:16:57 UTC"
+      "Checked At UTC": "2026-08-26 20:04:08 UTC"
     },
     {
       "City": "Everett, MA",
       "Rank": "-",
       "Status": "API_ERROR: API request failed after 3 attempts: HTTP Error 429: Too Many Requests",
       "Total Advertisers": "",
-      "Checked At UTC": "2026-08-26 13:17:07 UTC"
+      "Checked At UTC": "2026-08-26 20:04:18 UTC"
     },
     {
       "City": "Framingham, MA",
       "Rank": "-",
       "Status": "API_ERROR: API request failed after 3 attempts: HTTP Error 429: Too Many Requests",
       "Total Advertisers": "",
-      "Checked At UTC": "2026-08-26 13:17:17 UTC"
+      "Checked At UTC": "2026-08-26 20:04:28 UTC"
     },
     {
       "City": "Haverhill, MA",
       "Rank": "-",
       "Status": "API_ERROR: API request failed after 3 attempts: HTTP Error 429: Too Many Requests",
       "Total Advertisers": "",
-      "Checked At UTC": "2026-08-26 13:17:27 UTC"
+      "Checked At UTC": "2026-08-26 20:04:39 UTC"
     },
     {
       "City": "Lawrence, MA",
       "Rank": "-",
       "Status": "API_ERROR: API request failed after 3 attempts: HTTP Error 429: Too Many Requests",
       "Total Advertisers": "",
-      "Checked At UTC": "2026-08-26 13:17:38 UTC"
+      "Checked At UTC": "2026-08-26 20:04:49 UTC"
     },
     {
       "City": "Lexington, MA",
       "Rank": "-",
       "Status": "API_ERROR: API request failed after 3 attempts: HTTP Error 429: Too Many Requests",
       "Total Advertisers": "",
-      "Checked At UTC": "2026-08-26 13:17:48 UTC"
+      "Checked At UTC": "2026-08-26 20:04:59 UTC"
     },
     {
       "City": "Littleton, MA",
       "Rank": "-",
       "Status": "API_ERROR: API request failed after 3 attempts: HTTP Error 429: Too Many Requests",
       "Total Advertisers": "",
-      "Checked At UTC": "2026-08-26 13:17:58 UTC"
+      "Checked At UTC": "2026-08-26 20:05:10 UTC"
     },
     {
       "City": "Lowell, MA",
       "Rank": "-",
       "Status": "API_ERROR: API request failed after 3 attempts: HTTP Error 429: Too Many Requests",
       "Total Advertisers": "",
-      "Checked At UTC": "2026-08-26 13:18:08 UTC"
+      "Checked At UTC": "2026-08-26 20:05:20 UTC"
     },
     {
       "City": "Malden, MA",
       "Rank": "-",
       "Status": "API_ERROR: API request failed after 3 attempts: HTTP Error 429: Too Many Requests",
       "Total Advertisers": "",
-      "Checked At UTC": "2026-08-26 13:18:19 UTC"
+      "Checked At UTC": "2026-08-26 20:05:30 UTC"
     },
     {
       "City": "Marlborough, MA",
       "Rank": "-",
       "Status": "API_ERROR: API request failed after 3 attempts: HTTP Error 429: Too Many Requests",
       "Total Advertisers": "",
-      "Checked At UTC": "2026-08-26 13:18:29 UTC"
+      "Checked At UTC": "2026-08-26 20:05:41 UTC"
     },
     {
       "City": "Medford, MA",
       "Rank": "-",
       "Status": "API_ERROR: API request failed after 3 attempts: HTTP Error 429: Too Many Requests",
       "Total Advertisers": "",
-      "Checked At UTC": "2026-08-26 13:18:39 UTC"
+      "Checked At UTC": "2026-08-26 20:05:51 UTC"
     },
     {
       "City": "Melrose, MA",
       "Rank": "-",
       "Status": "API_ERROR: API request failed after 3 attempts: HTTP Error 429: Too Many Requests",
       "Total Advertisers": "",
-      "Checked At UTC": "2026-08-26 13:18:49 UTC"
+      "Checked At UTC": "2026-08-26 20:06:01 UTC"
     },
     {
       "City": "Methuen, MA",
       "Rank": "-",
       "Status": "API_ERROR: API request failed after 3 attempts: HTTP Error 429: Too Many Requests",
       "Total Advertisers": "",
-      "Checked At UTC": "2026-08-26 13:18:59 UTC"
+      "Checked At UTC": "2026-08-26 20:06:12 UTC"
     },
     {
       "City": "Milton, MA",
       "Rank": "-",
       "Status": "API_ERROR: API request failed after 3 attempts: HTTP Error 429: Too Many Requests",
       "Total Advertisers": "",
-      "Checked At UTC": "2026-08-26 13:19:10 UTC"
+      "Checked At UTC": "2026-08-26 20:06:22 UTC"
     },
     {
       "City": "Natick, MA",
       "Rank": "-",
       "Status": "API_ERROR: API request failed after 3 attempts: HTTP Error 429: Too Many Requests",
       "Total Advertisers": "",
-      "Checked At UTC": "2026-08-26 13:19:20 UTC"
+      "Checked At UTC": "2026-08-26 20:06:32 UTC"
     },
     {
       "City": "Needham, MA",
       "Rank": "-",
       "Status": "API_ERROR: API request failed after 3 attempts: HTTP Error 429: Too Many Requests",
       "Total Advertisers": "",
-      "Checked At UTC": "2026-08-26 13:19:30 UTC"
+      "Checked At UTC": "2026-08-26 20:06:43 UTC"
     },
     {
       "City": "Newton, MA",
       "Rank": "-",
       "Status": "API_ERROR: API request failed after 3 attempts: HTTP Error 429: Too Many Requests",
       "Total Advertisers": "",
-      "Checked At UTC": "2026-08-26 13:19:40 UTC"
+      "Checked At UTC": "2026-08-26 20:06:53 UTC"
     },
     {
       "City": "North Andover, MA",
       "Rank": "-",
       "Status": "API_ERROR: API request failed after 3 attempts: HTTP Error 429: Too Many Requests",
       "Total Advertisers": "",
-      "Checked At UTC": "2026-08-26 13:19:51 UTC"
+      "Checked At UTC": "2026-08-26 20:07:03 UTC"
     },
     {
       "City": "Norwood, MA",
       "Rank": "-",
       "Status": "API_ERROR: API request failed after 3 attempts: HTTP Error 429: Too Many Requests",
       "Total Advertisers": "",
-      "Checked At UTC": "2026-08-26 13:20:01 UTC"
+      "Checked At UTC": "2026-08-26 20:07:14 UTC"
     },
     {
       "City": "Quincy, MA",
       "Rank": "-",
       "Status": "API_ERROR: API request failed after 3 attempts: HTTP Error 429: Too Many Requests",
       "Total Advertisers": "",
-      "Checked At UTC": "2026-08-26 13:20:11 UTC"
+      "Checked At UTC": "2026-08-26 20:07:24 UTC"
     },
     {
       "City": "Reading, MA",
       "Rank": "-",
       "Status": "API_ERROR: API request failed after 3 attempts: HTTP Error 429: Too Many Requests",
       "Total Advertisers": "",
-      "Checked At UTC": "2026-08-26 13:20:22 UTC"
+      "Checked At UTC": "2026-08-26 20:07:34 UTC"
     },
     {
       "City": "Revere, MA",
       "Rank": "-",
       "Status": "API_ERROR: API request failed after 3 attempts: HTTP Error 429: Too Many Requests",
       "Total Advertisers": "",
-      "Checked At UTC": "2026-08-26 13:20:32 UTC"
+      "Checked At UTC": "2026-08-26 20:07:45 UTC"
     },
     {
       "City": "Somerville, MA",
       "Rank": "-",
       "Status": "API_ERROR: API request failed after 3 attempts: HTTP Error 429: Too Many Requests",
       "Total Advertisers": "",
-      "Checked At UTC": "2026-08-26 13:20:42 UTC"
+      "Checked At UTC": "2026-08-26 20:07:55 UTC"
     },
     {
       "City": "Stoneham, MA",
       "Rank": "-",
       "Status": "API_ERROR: API request failed after 3 attempts: HTTP Error 429: Too Many Requests",
       "Total Advertisers": "",
-      "Checked At UTC": "2026-08-26 13:20:52 UTC"
+      "Checked At UTC": "2026-08-26 20:08:05 UTC"
     },
     {
       "City": "Sudbury, MA",
       "Rank": "-",
       "Status": "API_ERROR: API request failed after 3 attempts: HTTP Error 429: Too Many Requests",
       "Total Advertisers": "",
-      "Checked At UTC": "2026-08-26 13:21:03 UTC"
+      "Checked At UTC": "2026-08-26 20:08:16 UTC"
     },
     {
       "City": "Tewksbury, MA",
       "Rank": "-",
       "Status": "API_ERROR: API request failed after 3 attempts: HTTP Error 429: Too Many Requests",
       "Total Advertisers": "",
-      "Checked At UTC": "2026-08-26 13:21:13 UTC"
+      "Checked At UTC": "2026-08-26 20:08:26 UTC"
     },
     {
       "City": "Wakefield, MA",
       "Rank": "-",
       "Status": "API_ERROR: API request failed after 3 attempts: HTTP Error 429: Too Many Requests",
       "Total Advertisers": "",
-      "Checked At UTC": "2026-08-26 13:21:23 UTC"
+      "Checked At UTC": "2026-08-26 20:08:37 UTC"
     },
     {
       "City": "Waltham, MA",
       "Rank": "-",
       "Status": "API_ERROR: API request failed after 3 attempts: HTTP Error 429: Too Many Requests",
       "Total Advertisers": "",
-      "Checked At UTC": "2026-08-26 13:21:33 UTC"
+      "Checked At UTC": "2026-08-26 20:08:47 UTC"
     },
     {
       "City": "Watertown, MA",
       "Rank": "-",
       "Status": "API_ERROR: API request failed after 3 attempts: HTTP Error 429: Too Many Requests",
       "Total Advertisers": "",
-      "Checked At UTC": "2026-08-26 13:21:43 UTC"
+      "Checked At UTC": "2026-08-26 20:08:57 UTC"
     },
     {
       "City": "Wayland, MA",
       "Rank": "-",
       "Status": "API_ERROR: API request failed after 3 attempts: HTTP Error 429: Too Many Requests",
       "Total Advertisers": "",
-      "Checked At UTC": "2026-08-26 13:21:54 UTC"
+      "Checked At UTC": "2026-08-26 20:09:08 UTC"
     },
     {
       "City": "Wellesley, MA",
       "Rank": "-",
       "Status": "API_ERROR: API request failed after 3 attempts: HTTP Error 429: Too Many Requests",
       "Total Advertisers": "",
-      "Checked At UTC": "2026-08-26 13:22:04 UTC"
+      "Checked At UTC": "2026-08-26 20:09:18 UTC"
     },
     {
       "City": "Westford, MA",
       "Rank": "-",
       "Status": "API_ERROR: API request failed after 3 attempts: HTTP Error 429: Too Many Requests",
       "Total Advertisers": "",
-      "Checked At UTC": "2026-08-26 13:22:14 UTC"
+      "Checked At UTC": "2026-08-26 20:09:28 UTC"
     },
     {
       "City": "Weston, MA",
       "Rank": "-",
       "Status": "API_ERROR: API request failed after 3 attempts: HTTP Error 429: Too Many Requests",
       "Total Advertisers": "",
-      "Checked At UTC": "2026-08-26 13:22:24 UTC"
+      "Checked At UTC": "2026-08-26 20:09:39 UTC"
     },
     {
       "City": "Westwood, MA",
       "Rank": "-",
       "Status": "API_ERROR: API request failed after 3 attempts: HTTP Error 429: Too Many Requests",
       "Total Advertisers": "",
-      "Checked At UTC": "2026-08-26 13:22:35 UTC"
+      "Checked At UTC": "2026-08-26 20:09:49 UTC"
     },
     {
       "City": "Wilmington, MA",
       "Rank": "-",
       "Status": "API_ERROR: API request failed after 3 attempts: HTTP Error 429: Too Many Requests",
       "Total Advertisers": "",
-      "Checked At UTC": "2026-08-26 13:22:45 UTC"
+      "Checked At UTC": "2026-08-26 20:09:59 UTC"
     },
     {
       "City": "Winchester, MA",
       "Rank": "-",
       "Status": "API_ERROR: API request failed after 3 attempts: HTTP Error 429: Too Many Requests",
       "Total Advertisers": "",
-      "Checked At UTC": "2026-08-26 13:22:55 UTC"
+      "Checked At UTC": "2026-08-26 20:10:10 UTC"
     },
     {
       "City": "Winthrop, MA",
       "Rank": "-",
       "Status": "API_ERROR: API request failed after 3 attempts: HTTP Error 429: Too Many Requests",
       "Total Advertisers": "",
-      "Checked At UTC": "2026-08-26 13:23:05 UTC"
+      "Checked At UTC": "2026-08-26 20:10:20 UTC"
     },
     {
       "City": "Woburn, MA",
       "Rank": "-",
       "Status": "API_ERROR: API request failed after 3 attempts: HTTP Error 429: Too Many Requests",
       "Total Advertisers": "",
-      "Checked At UTC": "2026-08-26 13:23:16 UTC"
+      "Checked At UTC": "2026-08-26 20:10:30 UTC"
     }
   ]
 }
