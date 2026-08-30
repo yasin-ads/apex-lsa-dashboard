@@ -27498,5 +27498,280 @@
         "Status": "API_ERROR: API request failed after 3 attempts: HTTP Error 429: Too Many Requests"
       }
     ]
+  },
+  {
+    "checked_at_utc": "2026-08-30 12:01:19 UTC",
+    "results": [
+      {
+        "City": "Acton, MA",
+        "Rank": "-",
+        "Status": "API_ERROR: API request failed after 3 attempts: HTTP Error 429: Too Many Requests"
+      },
+      {
+        "City": "Andover, MA",
+        "Rank": "-",
+        "Status": "API_ERROR: API request failed after 3 attempts: HTTP Error 429: Too Many Requests"
+      },
+      {
+        "City": "Arlington, MA",
+        "Rank": "-",
+        "Status": "API_ERROR: API request failed after 3 attempts: HTTP Error 429: Too Many Requests"
+      },
+      {
+        "City": "Bedford, MA",
+        "Rank": "-",
+        "Status": "API_ERROR: API request failed after 3 attempts: HTTP Error 429: Too Many Requests"
+      },
+      {
+        "City": "Belmont, MA",
+        "Rank": "-",
+        "Status": "API_ERROR: API request failed after 3 attempts: HTTP Error 429: Too Many Requests"
+      },
+      {
+        "City": "Billerica, MA",
+        "Rank": "-",
+        "Status": "API_ERROR: API request failed after 3 attempts: HTTP Error 429: Too Many Requests"
+      },
+      {
+        "City": "Boston, MA",
+        "Rank": "-",
+        "Status": "API_ERROR: API request failed after 3 attempts: HTTP Error 429: Too Many Requests"
+      },
+      {
+        "City": "Braintree, MA",
+        "Rank": "-",
+        "Status": "API_ERROR: API request failed after 3 attempts: HTTP Error 429: Too Many Requests"
+      },
+      {
+        "City": "Brookline, MA",
+        "Rank": "-",
+        "Status": "API_ERROR: API request failed after 3 attempts: HTTP Error 429: Too Many Requests"
+      },
+      {
+        "City": "Burlington, MA",
+        "Rank": "-",
+        "Status": "API_ERROR: API request failed after 3 attempts: HTTP Error 429: Too Many Requests"
+      },
+      {
+        "City": "Cambridge, MA",
+        "Rank": "-",
+        "Status": "API_ERROR: API request failed after 3 attempts: HTTP Error 429: Too Many Requests"
+      },
+      {
+        "City": "Canton, MA",
+        "Rank": "-",
+        "Status": "API_ERROR: API request failed after 3 attempts: HTTP Error 429: Too Many Requests"
+      },
+      {
+        "City": "Chelmsford, MA",
+        "Rank": "-",
+        "Status": "API_ERROR: API request failed after 3 attempts: HTTP Error 429: Too Many Requests"
+      },
+      {
+        "City": "Chelsea, MA",
+        "Rank": "-",
+        "Status": "API_ERROR: API request failed after 3 attempts: HTTP Error 429: Too Many Requests"
+      },
+      {
+        "City": "Concord, MA",
+        "Rank": "-",
+        "Status": "API_ERROR: API request failed after 3 attempts: HTTP Error 429: Too Many Requests"
+      },
+      {
+        "City": "Dedham, MA",
+        "Rank": "-",
+        "Status": "API_ERROR: API request failed after 3 attempts: HTTP Error 429: Too Many Requests"
+      },
+      {
+        "City": "Dracut, MA",
+        "Rank": "-",
+        "Status": "API_ERROR: API request failed after 3 attempts: HTTP Error 429: Too Many Requests"
+      },
+      {
+        "City": "Everett, MA",
+        "Rank": "-",
+        "Status": "API_ERROR: API request failed after 3 attempts: HTTP Error 429: Too Many Requests"
+      },
+      {
+        "City": "Framingham, MA",
+        "Rank": "-",
+        "Status": "API_ERROR: API request failed after 3 attempts: HTTP Error 429: Too Many Requests"
+      },
+      {
+        "City": "Haverhill, MA",
+        "Rank": "-",
+        "Status": "API_ERROR: API request failed after 3 attempts: HTTP Error 429: Too Many Requests"
+      },
+      {
+        "City": "Lawrence, MA",
+        "Rank": "-",
+        "Status": "API_ERROR: API request failed after 3 attempts: HTTP Error 429: Too Many Requests"
+      },
+      {
+        "City": "Lexington, MA",
+        "Rank": "-",
+        "Status": "API_ERROR: API request failed after 3 attempts: HTTP Error 429: Too Many Requests"
+      },
+      {
+        "City": "Littleton, MA",
+        "Rank": "-",
+        "Status": "API_ERROR: API request failed after 3 attempts: HTTP Error 429: Too Many Requests"
+      },
+      {
+        "City": "Lowell, MA",
+        "Rank": "-",
+        "Status": "API_ERROR: API request failed after 3 attempts: HTTP Error 429: Too Many Requests"
+      },
+      {
+        "City": "Malden, MA",
+        "Rank": "-",
+        "Status": "API_ERROR: API request failed after 3 attempts: HTTP Error 429: Too Many Requests"
+      },
+      {
+        "City": "Marlborough, MA",
+        "Rank": "-",
+        "Status": "API_ERROR: API request failed after 3 attempts: HTTP Error 429: Too Many Requests"
+      },
+      {
+        "City": "Medford, MA",
+        "Rank": "-",
+        "Status": "API_ERROR: API request failed after 3 attempts: HTTP Error 429: Too Many Requests"
+      },
+      {
+        "City": "Melrose, MA",
+        "Rank": "-",
+        "Status": "API_ERROR: API request failed after 3 attempts: HTTP Error 429: Too Many Requests"
+      },
+      {
+        "City": "Methuen, MA",
+        "Rank": "-",
+        "Status": "API_ERROR: API request failed after 3 attempts: HTTP Error 429: Too Many Requests"
+      },
+      {
+        "City": "Milton, MA",
+        "Rank": "-",
+        "Status": "API_ERROR: API request failed after 3 attempts: HTTP Error 429: Too Many Requests"
+      },
+      {
+        "City": "Natick, MA",
+        "Rank": "-",
+        "Status": "API_ERROR: API request failed after 3 attempts: HTTP Error 429: Too Many Requests"
+      },
+      {
+        "City": "Needham, MA",
+        "Rank": "-",
+        "Status": "API_ERROR: API request failed after 3 attempts: HTTP Error 429: Too Many Requests"
+      },
+      {
+        "City": "Newton, MA",
+        "Rank": "-",
+        "Status": "API_ERROR: API request failed after 3 attempts: HTTP Error 429: Too Many Requests"
+      },
+      {
+        "City": "North Andover, MA",
+        "Rank": "-",
+        "Status": "API_ERROR: API request failed after 3 attempts: HTTP Error 429: Too Many Requests"
+      },
+      {
+        "City": "Norwood, MA",
+        "Rank": "-",
+        "Status": "API_ERROR: API request failed after 3 attempts: HTTP Error 429: Too Many Requests"
+      },
+      {
+        "City": "Quincy, MA",
+        "Rank": "-",
+        "Status": "API_ERROR: API request failed after 3 attempts: HTTP Error 429: Too Many Requests"
+      },
+      {
+        "City": "Reading, MA",
+        "Rank": "-",
+        "Status": "API_ERROR: API request failed after 3 attempts: HTTP Error 429: Too Many Requests"
+      },
+      {
+        "City": "Revere, MA",
+        "Rank": "-",
+        "Status": "API_ERROR: API request failed after 3 attempts: HTTP Error 429: Too Many Requests"
+      },
+      {
+        "City": "Somerville, MA",
+        "Rank": "-",
+        "Status": "API_ERROR: API request failed after 3 attempts: HTTP Error 429: Too Many Requests"
+      },
+      {
+        "City": "Stoneham, MA",
+        "Rank": "-",
+        "Status": "API_ERROR: API request failed after 3 attempts: HTTP Error 429: Too Many Requests"
+      },
+      {
+        "City": "Sudbury, MA",
+        "Rank": "-",
+        "Status": "API_ERROR: API request failed after 3 attempts: HTTP Error 429: Too Many Requests"
+      },
+      {
+        "City": "Tewksbury, MA",
+        "Rank": "-",
+        "Status": "API_ERROR: API request failed after 3 attempts: HTTP Error 429: Too Many Requests"
+      },
+      {
+        "City": "Wakefield, MA",
+        "Rank": "-",
+        "Status": "API_ERROR: API request failed after 3 attempts: HTTP Error 429: Too Many Requests"
+      },
+      {
+        "City": "Waltham, MA",
+        "Rank": "-",
+        "Status": "API_ERROR: API request failed after 3 attempts: HTTP Error 429: Too Many Requests"
+      },
+      {
+        "City": "Watertown, MA",
+        "Rank": "-",
+        "Status": "API_ERROR: API request failed after 3 attempts: HTTP Error 429: Too Many Requests"
+      },
+      {
+        "City": "Wayland, MA",
+        "Rank": "-",
+        "Status": "API_ERROR: API request failed after 3 attempts: HTTP Error 429: Too Many Requests"
+      },
+      {
+        "City": "Wellesley, MA",
+        "Rank": "-",
+        "Status": "API_ERROR: API request failed after 3 attempts: HTTP Error 429: Too Many Requests"
+      },
+      {
+        "City": "Westford, MA",
+        "Rank": "-",
+        "Status": "API_ERROR: API request failed after 3 attempts: HTTP Error 429: Too Many Requests"
+      },
+      {
+        "City": "Weston, MA",
+        "Rank": "-",
+        "Status": "API_ERROR: API request failed after 3 attempts: HTTP Error 429: Too Many Requests"
+      },
+      {
+        "City": "Westwood, MA",
+        "Rank": "-",
+        "Status": "API_ERROR: API request failed after 3 attempts: HTTP Error 429: Too Many Requests"
+      },
+      {
+        "City": "Wilmington, MA",
+        "Rank": "-",
+        "Status": "API_ERROR: API request failed after 3 attempts: HTTP Error 429: Too Many Requests"
+      },
+      {
+        "City": "Winchester, MA",
+        "Rank": "-",
+        "Status": "API_ERROR: API request failed after 3 attempts: HTTP Error 429: Too Many Requests"
+      },
+      {
+        "City": "Winthrop, MA",
+        "Rank": "-",
+        "Status": "API_ERROR: API request failed after 3 attempts: HTTP Error 429: Too Many Requests"
+      },
+      {
+        "City": "Woburn, MA",
+        "Rank": "-",
+        "Status": "API_ERROR: API request failed after 3 attempts: HTTP Error 429: Too Many Requests"
+      }
+    ]
   }
 ]
