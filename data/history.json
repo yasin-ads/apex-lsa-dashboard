@@ -1,280 +1,5 @@
 [
   {
-    "checked_at_utc": "2026-08-12 07:52:04 UTC",
-    "results": [
-      {
-        "City": "Acton, MA",
-        "Rank": "-",
-        "Status": "NOT_RANKING"
-      },
-      {
-        "City": "Andover, MA",
-        "Rank": "-",
-        "Status": "NOT_RANKING"
-      },
-      {
-        "City": "Arlington, MA",
-        "Rank": "-",
-        "Status": "NOT_RANKING"
-      },
-      {
-        "City": "Bedford, MA",
-        "Rank": "-",
-        "Status": "NOT_RANKING"
-      },
-      {
-        "City": "Belmont, MA",
-        "Rank": "-",
-        "Status": "NOT_RANKING"
-      },
-      {
-        "City": "Billerica, MA",
-        "Rank": "-",
-        "Status": "NOT_RANKING"
-      },
-      {
-        "City": "Boston, MA",
-        "Rank": "-",
-        "Status": "NOT_RANKING"
-      },
-      {
-        "City": "Braintree, MA",
-        "Rank": "-",
-        "Status": "NOT_RANKING"
-      },
-      {
-        "City": "Brookline, MA",
-        "Rank": "-",
-        "Status": "NOT_RANKING"
-      },
-      {
-        "City": "Burlington, MA",
-        "Rank": "-",
-        "Status": "NOT_RANKING"
-      },
-      {
-        "City": "Cambridge, MA",
-        "Rank": "-",
-        "Status": "NOT_RANKING"
-      },
-      {
-        "City": "Canton, MA",
-        "Rank": "-",
-        "Status": "NOT_RANKING"
-      },
-      {
-        "City": "Chelmsford, MA",
-        "Rank": "-",
-        "Status": "NOT_RANKING"
-      },
-      {
-        "City": "Chelsea, MA",
-        "Rank": "-",
-        "Status": "NOT_RANKING"
-      },
-      {
-        "City": "Concord, MA",
-        "Rank": "-",
-        "Status": "NOT_RANKING"
-      },
-      {
-        "City": "Dedham, MA",
-        "Rank": "-",
-        "Status": "NOT_RANKING"
-      },
-      {
-        "City": "Dracut, MA",
-        "Rank": "-",
-        "Status": "NOT_RANKING"
-      },
-      {
-        "City": "Everett, MA",
-        "Rank": "-",
-        "Status": "NOT_RANKING"
-      },
-      {
-        "City": "Framingham, MA",
-        "Rank": "-",
-        "Status": "NOT_RANKING"
-      },
-      {
-        "City": "Haverhill, MA",
-        "Rank": "#15",
-        "Status": "RANKED"
-      },
-      {
-        "City": "Lawrence, MA",
-        "Rank": "#15",
-        "Status": "RANKED"
-      },
-      {
-        "City": "Lexington, MA",
-        "Rank": "-",
-        "Status": "NOT_RANKING"
-      },
-      {
-        "City": "Littleton, MA",
-        "Rank": "-",
-        "Status": "NOT_RANKING"
-      },
-      {
-        "City": "Lowell, MA",
-        "Rank": "-",
-        "Status": "NOT_RANKING"
-      },
-      {
-        "City": "Malden, MA",
-        "Rank": "-",
-        "Status": "NOT_RANKING"
-      },
-      {
-        "City": "Marlborough, MA",
-        "Rank": "-",
-        "Status": "NOT_RANKING"
-      },
-      {
-        "City": "Medford, MA",
-        "Rank": "-",
-        "Status": "NOT_RANKING"
-      },
-      {
-        "City": "Melrose, MA",
-        "Rank": "-",
-        "Status": "NOT_RANKING"
-      },
-      {
-        "City": "Methuen, MA",
-        "Rank": "#16",
-        "Status": "RANKED"
-      },
-      {
-        "City": "Milton, MA",
-        "Rank": "-",
-        "Status": "NOT_RANKING"
-      },
-      {
-        "City": "Natick, MA",
-        "Rank": "-",
-        "Status": "NOT_RANKING"
-      },
-      {
-        "City": "Needham, MA",
-        "Rank": "-",
-        "Status": "NOT_RANKING"
-      },
-      {
-        "City": "Newton, MA",
-        "Rank": "-",
-        "Status": "NOT_RANKING"
-      },
-      {
-        "City": "North Andover, MA",
-        "Rank": "#18",
-        "Status": "RANKED"
-      },
-      {
-        "City": "Norwood, MA",
-        "Rank": "-",
-        "Status": "NOT_RANKING"
-      },
-      {
-        "City": "Quincy, MA",
-        "Rank": "-",
-        "Status": "NOT_RANKING"
-      },
-      {
-        "City": "Reading, MA",
-        "Rank": "-",
-        "Status": "NOT_RANKING"
-      },
-      {
-        "City": "Revere, MA",
-        "Rank": "-",
-        "Status": "NOT_RANKING"
-      },
-      {
-        "City": "Somerville, MA",
-        "Rank": "-",
-        "Status": "NOT_RANKING"
-      },
-      {
-        "City": "Stoneham, MA",
-        "Rank": "-",
-        "Status": "NOT_RANKING"
-      },
-      {
-        "City": "Sudbury, MA",
-        "Rank": "-",
-        "Status": "NOT_RANKING"
-      },
-      {
-        "City": "Tewksbury, MA",
-        "Rank": "-",
-        "Status": "NOT_RANKING"
-      },
-      {
-        "City": "Wakefield, MA",
-        "Rank": "-",
-        "Status": "NOT_RANKING"
-      },
-      {
-        "City": "Waltham, MA",
-        "Rank": "-",
-        "Status": "NOT_RANKING"
-      },
-      {
-        "City": "Watertown, MA",
-        "Rank": "-",
-        "Status": "NOT_RANKING"
-      },
-      {
-        "City": "Wayland, MA",
-        "Rank": "-",
-        "Status": "NOT_RANKING"
-      },
-      {
-        "City": "Wellesley, MA",
-        "Rank": "-",
-        "Status": "NOT_RANKING"
-      },
-      {
-        "City": "Westford, MA",
-        "Rank": "-",
-        "Status": "NOT_RANKING"
-      },
-      {
-        "City": "Weston, MA",
-        "Rank": "-",
-        "Status": "NOT_RANKING"
-      },
-      {
-        "City": "Westwood, MA",
-        "Rank": "-",
-        "Status": "NOT_RANKING"
-      },
-      {
-        "City": "Wilmington, MA",
-        "Rank": "-",
-        "Status": "NOT_RANKING"
-      },
-      {
-        "City": "Winchester, MA",
-        "Rank": "-",
-        "Status": "NOT_RANKING"
-      },
-      {
-        "City": "Winthrop, MA",
-        "Rank": "-",
-        "Status": "NOT_RANKING"
-      },
-      {
-        "City": "Woburn, MA",
-        "Rank": "-",
-        "Status": "NOT_RANKING"
-      }
-    ]
-  },
-  {
     "checked_at_utc": "2026-08-12 13:51:55 UTC",
     "results": [
       {
@@ -49226,6 +48951,281 @@
   },
   {
     "checked_at_utc": "2026-09-26 05:02:53 UTC",
+    "results": [
+      {
+        "City": "Acton, MA",
+        "Rank": "-",
+        "Status": "API_ERROR: API request failed after 3 attempts: HTTP Error 429: Too Many Requests"
+      },
+      {
+        "City": "Andover, MA",
+        "Rank": "-",
+        "Status": "API_ERROR: API request failed after 3 attempts: HTTP Error 429: Too Many Requests"
+      },
+      {
+        "City": "Arlington, MA",
+        "Rank": "-",
+        "Status": "API_ERROR: API request failed after 3 attempts: HTTP Error 429: Too Many Requests"
+      },
+      {
+        "City": "Bedford, MA",
+        "Rank": "-",
+        "Status": "API_ERROR: API request failed after 3 attempts: HTTP Error 429: Too Many Requests"
+      },
+      {
+        "City": "Belmont, MA",
+        "Rank": "-",
+        "Status": "API_ERROR: API request failed after 3 attempts: HTTP Error 429: Too Many Requests"
+      },
+      {
+        "City": "Billerica, MA",
+        "Rank": "-",
+        "Status": "API_ERROR: API request failed after 3 attempts: HTTP Error 429: Too Many Requests"
+      },
+      {
+        "City": "Boston, MA",
+        "Rank": "-",
+        "Status": "API_ERROR: API request failed after 3 attempts: HTTP Error 429: Too Many Requests"
+      },
+      {
+        "City": "Braintree, MA",
+        "Rank": "-",
+        "Status": "API_ERROR: API request failed after 3 attempts: HTTP Error 429: Too Many Requests"
+      },
+      {
+        "City": "Brookline, MA",
+        "Rank": "-",
+        "Status": "API_ERROR: API request failed after 3 attempts: HTTP Error 429: Too Many Requests"
+      },
+      {
+        "City": "Burlington, MA",
+        "Rank": "-",
+        "Status": "API_ERROR: API request failed after 3 attempts: HTTP Error 429: Too Many Requests"
+      },
+      {
+        "City": "Cambridge, MA",
+        "Rank": "-",
+        "Status": "API_ERROR: API request failed after 3 attempts: HTTP Error 429: Too Many Requests"
+      },
+      {
+        "City": "Canton, MA",
+        "Rank": "-",
+        "Status": "API_ERROR: API request failed after 3 attempts: HTTP Error 429: Too Many Requests"
+      },
+      {
+        "City": "Chelmsford, MA",
+        "Rank": "-",
+        "Status": "API_ERROR: API request failed after 3 attempts: HTTP Error 429: Too Many Requests"
+      },
+      {
+        "City": "Chelsea, MA",
+        "Rank": "-",
+        "Status": "API_ERROR: API request failed after 3 attempts: HTTP Error 429: Too Many Requests"
+      },
+      {
+        "City": "Concord, MA",
+        "Rank": "-",
+        "Status": "API_ERROR: API request failed after 3 attempts: HTTP Error 429: Too Many Requests"
+      },
+      {
+        "City": "Dedham, MA",
+        "Rank": "-",
+        "Status": "API_ERROR: API request failed after 3 attempts: HTTP Error 429: Too Many Requests"
+      },
+      {
+        "City": "Dracut, MA",
+        "Rank": "-",
+        "Status": "API_ERROR: API request failed after 3 attempts: HTTP Error 429: Too Many Requests"
+      },
+      {
+        "City": "Everett, MA",
+        "Rank": "-",
+        "Status": "API_ERROR: API request failed after 3 attempts: HTTP Error 429: Too Many Requests"
+      },
+      {
+        "City": "Framingham, MA",
+        "Rank": "-",
+        "Status": "API_ERROR: API request failed after 3 attempts: HTTP Error 429: Too Many Requests"
+      },
+      {
+        "City": "Haverhill, MA",
+        "Rank": "-",
+        "Status": "API_ERROR: API request failed after 3 attempts: HTTP Error 429: Too Many Requests"
+      },
+      {
+        "City": "Lawrence, MA",
+        "Rank": "-",
+        "Status": "API_ERROR: API request failed after 3 attempts: HTTP Error 429: Too Many Requests"
+      },
+      {
+        "City": "Lexington, MA",
+        "Rank": "-",
+        "Status": "API_ERROR: API request failed after 3 attempts: HTTP Error 429: Too Many Requests"
+      },
+      {
+        "City": "Littleton, MA",
+        "Rank": "-",
+        "Status": "API_ERROR: API request failed after 3 attempts: HTTP Error 429: Too Many Requests"
+      },
+      {
+        "City": "Lowell, MA",
+        "Rank": "-",
+        "Status": "API_ERROR: API request failed after 3 attempts: HTTP Error 429: Too Many Requests"
+      },
+      {
+        "City": "Malden, MA",
+        "Rank": "-",
+        "Status": "API_ERROR: API request failed after 3 attempts: HTTP Error 429: Too Many Requests"
+      },
+      {
+        "City": "Marlborough, MA",
+        "Rank": "-",
+        "Status": "API_ERROR: API request failed after 3 attempts: HTTP Error 429: Too Many Requests"
+      },
+      {
+        "City": "Medford, MA",
+        "Rank": "-",
+        "Status": "API_ERROR: API request failed after 3 attempts: HTTP Error 429: Too Many Requests"
+      },
+      {
+        "City": "Melrose, MA",
+        "Rank": "-",
+        "Status": "API_ERROR: API request failed after 3 attempts: HTTP Error 429: Too Many Requests"
+      },
+      {
+        "City": "Methuen, MA",
+        "Rank": "-",
+        "Status": "API_ERROR: API request failed after 3 attempts: HTTP Error 429: Too Many Requests"
+      },
+      {
+        "City": "Milton, MA",
+        "Rank": "-",
+        "Status": "API_ERROR: API request failed after 3 attempts: HTTP Error 429: Too Many Requests"
+      },
+      {
+        "City": "Natick, MA",
+        "Rank": "-",
+        "Status": "API_ERROR: API request failed after 3 attempts: HTTP Error 429: Too Many Requests"
+      },
+      {
+        "City": "Needham, MA",
+        "Rank": "-",
+        "Status": "API_ERROR: API request failed after 3 attempts: HTTP Error 429: Too Many Requests"
+      },
+      {
+        "City": "Newton, MA",
+        "Rank": "-",
+        "Status": "API_ERROR: API request failed after 3 attempts: HTTP Error 429: Too Many Requests"
+      },
+      {
+        "City": "North Andover, MA",
+        "Rank": "-",
+        "Status": "API_ERROR: API request failed after 3 attempts: HTTP Error 429: Too Many Requests"
+      },
+      {
+        "City": "Norwood, MA",
+        "Rank": "-",
+        "Status": "API_ERROR: API request failed after 3 attempts: HTTP Error 429: Too Many Requests"
+      },
+      {
+        "City": "Quincy, MA",
+        "Rank": "-",
+        "Status": "API_ERROR: API request failed after 3 attempts: HTTP Error 429: Too Many Requests"
+      },
+      {
+        "City": "Reading, MA",
+        "Rank": "-",
+        "Status": "API_ERROR: API request failed after 3 attempts: HTTP Error 429: Too Many Requests"
+      },
+      {
+        "City": "Revere, MA",
+        "Rank": "-",
+        "Status": "API_ERROR: API request failed after 3 attempts: HTTP Error 429: Too Many Requests"
+      },
+      {
+        "City": "Somerville, MA",
+        "Rank": "-",
+        "Status": "API_ERROR: API request failed after 3 attempts: HTTP Error 429: Too Many Requests"
+      },
+      {
+        "City": "Stoneham, MA",
+        "Rank": "-",
+        "Status": "API_ERROR: API request failed after 3 attempts: HTTP Error 429: Too Many Requests"
+      },
+      {
+        "City": "Sudbury, MA",
+        "Rank": "-",
+        "Status": "API_ERROR: API request failed after 3 attempts: HTTP Error 429: Too Many Requests"
+      },
+      {
+        "City": "Tewksbury, MA",
+        "Rank": "-",
+        "Status": "API_ERROR: API request failed after 3 attempts: HTTP Error 429: Too Many Requests"
+      },
+      {
+        "City": "Wakefield, MA",
+        "Rank": "-",
+        "Status": "API_ERROR: API request failed after 3 attempts: HTTP Error 429: Too Many Requests"
+      },
+      {
+        "City": "Waltham, MA",
+        "Rank": "-",
+        "Status": "API_ERROR: API request failed after 3 attempts: HTTP Error 429: Too Many Requests"
+      },
+      {
+        "City": "Watertown, MA",
+        "Rank": "-",
+        "Status": "API_ERROR: API request failed after 3 attempts: HTTP Error 429: Too Many Requests"
+      },
+      {
+        "City": "Wayland, MA",
+        "Rank": "-",
+        "Status": "API_ERROR: API request failed after 3 attempts: HTTP Error 429: Too Many Requests"
+      },
+      {
+        "City": "Wellesley, MA",
+        "Rank": "-",
+        "Status": "API_ERROR: API request failed after 3 attempts: HTTP Error 429: Too Many Requests"
+      },
+      {
+        "City": "Westford, MA",
+        "Rank": "-",
+        "Status": "API_ERROR: API request failed after 3 attempts: HTTP Error 429: Too Many Requests"
+      },
+      {
+        "City": "Weston, MA",
+        "Rank": "-",
+        "Status": "API_ERROR: API request failed after 3 attempts: HTTP Error 429: Too Many Requests"
+      },
+      {
+        "City": "Westwood, MA",
+        "Rank": "-",
+        "Status": "API_ERROR: API request failed after 3 attempts: HTTP Error 429: Too Many Requests"
+      },
+      {
+        "City": "Wilmington, MA",
+        "Rank": "-",
+        "Status": "API_ERROR: API request failed after 3 attempts: HTTP Error 429: Too Many Requests"
+      },
+      {
+        "City": "Winchester, MA",
+        "Rank": "-",
+        "Status": "API_ERROR: API request failed after 3 attempts: HTTP Error 429: Too Many Requests"
+      },
+      {
+        "City": "Winthrop, MA",
+        "Rank": "-",
+        "Status": "API_ERROR: API request failed after 3 attempts: HTTP Error 429: Too Many Requests"
+      },
+      {
+        "City": "Woburn, MA",
+        "Rank": "-",
+        "Status": "API_ERROR: API request failed after 3 attempts: HTTP Error 429: Too Many Requests"
+      }
+    ]
+  },
+  {
+    "checked_at_utc": "2026-09-26 11:29:44 UTC",
     "results": [
       {
         "City": "Acton, MA",
