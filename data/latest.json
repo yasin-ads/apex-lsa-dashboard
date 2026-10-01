@@ -1,7 +1,7 @@
 {
   "business": "Apex Lock N Key",
   "category": "locksmith",
-  "checked_at_utc": "2026-10-01 05:49:23 UTC",
+  "checked_at_utc": "2026-10-01 07:12:00 UTC",
   "city_count": 54,
   "results": [
     {
@@ -9,378 +9,378 @@
       "Rank": "#6",
       "Status": "RANKED",
       "Total Advertisers": "20",
-      "Checked At UTC": "2026-10-01 05:47:11 UTC"
+      "Checked At UTC": "2026-10-01 07:09:22 UTC"
     },
     {
       "City": "Andover, MA",
-      "Rank": "#6",
+      "Rank": "#7",
       "Status": "RANKED",
       "Total Advertisers": "20",
-      "Checked At UTC": "2026-10-01 05:47:13 UTC"
+      "Checked At UTC": "2026-10-01 07:09:24 UTC"
     },
     {
       "City": "Arlington, MA",
-      "Rank": "#6",
+      "Rank": "#7",
       "Status": "RANKED",
       "Total Advertisers": "20",
-      "Checked At UTC": "2026-10-01 05:47:15 UTC"
+      "Checked At UTC": "2026-10-01 07:09:26 UTC"
     },
     {
       "City": "Bedford, MA",
       "Rank": "#5",
       "Status": "RANKED",
       "Total Advertisers": "20",
-      "Checked At UTC": "2026-10-01 05:47:17 UTC"
+      "Checked At UTC": "2026-10-01 07:09:29 UTC"
     },
     {
       "City": "Belmont, MA",
       "Rank": "#6",
       "Status": "RANKED",
       "Total Advertisers": "20",
-      "Checked At UTC": "2026-10-01 05:47:20 UTC"
+      "Checked At UTC": "2026-10-01 07:09:32 UTC"
     },
     {
       "City": "Billerica, MA",
-      "Rank": "#7",
+      "Rank": "#6",
       "Status": "RANKED",
       "Total Advertisers": "20",
-      "Checked At UTC": "2026-10-01 05:47:22 UTC"
+      "Checked At UTC": "2026-10-01 07:09:34 UTC"
     },
     {
       "City": "Boston, MA",
       "Rank": "#6",
       "Status": "RANKED",
       "Total Advertisers": "20",
-      "Checked At UTC": "2026-10-01 05:47:24 UTC"
+      "Checked At UTC": "2026-10-01 07:09:37 UTC"
     },
     {
       "City": "Braintree, MA",
-      "Rank": "#5",
+      "Rank": "#7",
       "Status": "RANKED",
       "Total Advertisers": "20",
-      "Checked At UTC": "2026-10-01 05:47:26 UTC"
+      "Checked At UTC": "2026-10-01 07:09:38 UTC"
     },
     {
       "City": "Brookline, MA",
-      "Rank": "-",
-      "Status": "API_ERROR: API request failed after 3 attempts: SerpApi error: Google Local Services hasn't returned any results for this query.",
-      "Total Advertisers": "",
-      "Checked At UTC": "2026-10-01 05:47:28 UTC"
+      "Rank": "#1",
+      "Status": "RANKED",
+      "Total Advertisers": "20",
+      "Checked At UTC": "2026-10-01 07:09:40 UTC"
     },
     {
       "City": "Burlington, MA",
       "Rank": "#5",
       "Status": "RANKED",
       "Total Advertisers": "20",
-      "Checked At UTC": "2026-10-01 05:47:39 UTC"
+      "Checked At UTC": "2026-10-01 07:09:42 UTC"
     },
     {
       "City": "Cambridge, MA",
-      "Rank": "#6",
-      "Status": "RANKED",
-      "Total Advertisers": "20",
-      "Checked At UTC": "2026-10-01 05:47:43 UTC"
+      "Rank": "-",
+      "Status": "API_ERROR: API request failed after 3 attempts: SerpApi error: Google Local Services hasn't returned any results for this query.",
+      "Total Advertisers": "",
+      "Checked At UTC": "2026-10-01 07:09:44 UTC"
     },
     {
       "City": "Canton, MA",
-      "Rank": "#6",
+      "Rank": "#5",
       "Status": "RANKED",
       "Total Advertisers": "20",
-      "Checked At UTC": "2026-10-01 05:47:45 UTC"
+      "Checked At UTC": "2026-10-01 07:09:55 UTC"
     },
     {
       "City": "Chelmsford, MA",
-      "Rank": "#7",
-      "Status": "RANKED",
-      "Total Advertisers": "20",
-      "Checked At UTC": "2026-10-01 05:47:47 UTC"
+      "Rank": "-",
+      "Status": "API_ERROR: API request failed after 3 attempts: SerpApi error: Google Local Services hasn't returned any results for this query.",
+      "Total Advertisers": "",
+      "Checked At UTC": "2026-10-01 07:09:57 UTC"
     },
     {
       "City": "Chelsea, MA",
       "Rank": "#6",
       "Status": "RANKED",
       "Total Advertisers": "20",
-      "Checked At UTC": "2026-10-01 05:47:48 UTC"
+      "Checked At UTC": "2026-10-01 07:10:08 UTC"
     },
     {
       "City": "Concord, MA",
-      "Rank": "#6",
-      "Status": "RANKED",
-      "Total Advertisers": "20",
-      "Checked At UTC": "2026-10-01 05:47:50 UTC"
-    },
-    {
-      "City": "Dedham, MA",
-      "Rank": "#7",
-      "Status": "RANKED",
-      "Total Advertisers": "20",
-      "Checked At UTC": "2026-10-01 05:47:52 UTC"
-    },
-    {
-      "City": "Dracut, MA",
       "Rank": "#5",
       "Status": "RANKED",
       "Total Advertisers": "20",
-      "Checked At UTC": "2026-10-01 05:47:54 UTC"
+      "Checked At UTC": "2026-10-01 07:10:10 UTC"
+    },
+    {
+      "City": "Dedham, MA",
+      "Rank": "#5",
+      "Status": "RANKED",
+      "Total Advertisers": "20",
+      "Checked At UTC": "2026-10-01 07:10:12 UTC"
+    },
+    {
+      "City": "Dracut, MA",
+      "Rank": "#6",
+      "Status": "RANKED",
+      "Total Advertisers": "20",
+      "Checked At UTC": "2026-10-01 07:10:14 UTC"
     },
     {
       "City": "Everett, MA",
       "Rank": "#6",
       "Status": "RANKED",
       "Total Advertisers": "20",
-      "Checked At UTC": "2026-10-01 05:47:56 UTC"
+      "Checked At UTC": "2026-10-01 07:10:22 UTC"
     },
     {
       "City": "Framingham, MA",
       "Rank": "#5",
       "Status": "RANKED",
       "Total Advertisers": "20",
-      "Checked At UTC": "2026-10-01 05:47:58 UTC"
+      "Checked At UTC": "2026-10-01 07:10:24 UTC"
     },
     {
       "City": "Haverhill, MA",
       "Rank": "#5",
       "Status": "RANKED",
       "Total Advertisers": "20",
-      "Checked At UTC": "2026-10-01 05:48:00 UTC"
+      "Checked At UTC": "2026-10-01 07:10:26 UTC"
     },
     {
       "City": "Lawrence, MA",
       "Rank": "#5",
       "Status": "RANKED",
-      "Total Advertisers": "18",
-      "Checked At UTC": "2026-10-01 05:48:02 UTC"
+      "Total Advertisers": "19",
+      "Checked At UTC": "2026-10-01 07:10:28 UTC"
     },
     {
       "City": "Lexington, MA",
-      "Rank": "#5",
+      "Rank": "#6",
       "Status": "RANKED",
       "Total Advertisers": "20",
-      "Checked At UTC": "2026-10-01 05:48:04 UTC"
+      "Checked At UTC": "2026-10-01 07:10:30 UTC"
     },
     {
       "City": "Littleton, MA",
       "Rank": "#6",
       "Status": "RANKED",
       "Total Advertisers": "20",
-      "Checked At UTC": "2026-10-01 05:48:06 UTC"
+      "Checked At UTC": "2026-10-01 07:10:32 UTC"
     },
     {
       "City": "Lowell, MA",
-      "Rank": "#6",
+      "Rank": "#5",
       "Status": "RANKED",
       "Total Advertisers": "20",
-      "Checked At UTC": "2026-10-01 05:48:08 UTC"
+      "Checked At UTC": "2026-10-01 07:10:34 UTC"
     },
     {
       "City": "Malden, MA",
       "Rank": "#5",
       "Status": "RANKED",
       "Total Advertisers": "20",
-      "Checked At UTC": "2026-10-01 05:48:11 UTC"
+      "Checked At UTC": "2026-10-01 07:10:36 UTC"
     },
     {
       "City": "Marlborough, MA",
       "Rank": "#7",
       "Status": "RANKED",
       "Total Advertisers": "20",
-      "Checked At UTC": "2026-10-01 05:48:13 UTC"
+      "Checked At UTC": "2026-10-01 07:10:38 UTC"
     },
     {
       "City": "Medford, MA",
       "Rank": "#6",
       "Status": "RANKED",
       "Total Advertisers": "20",
-      "Checked At UTC": "2026-10-01 05:48:14 UTC"
+      "Checked At UTC": "2026-10-01 07:10:39 UTC"
     },
     {
       "City": "Melrose, MA",
       "Rank": "#5",
       "Status": "RANKED",
       "Total Advertisers": "20",
-      "Checked At UTC": "2026-10-01 05:48:16 UTC"
+      "Checked At UTC": "2026-10-01 07:10:42 UTC"
     },
     {
       "City": "Methuen, MA",
       "Rank": "#5",
       "Status": "RANKED",
       "Total Advertisers": "20",
-      "Checked At UTC": "2026-10-01 05:48:18 UTC"
+      "Checked At UTC": "2026-10-01 07:10:44 UTC"
     },
     {
       "City": "Milton, MA",
       "Rank": "#5",
       "Status": "RANKED",
       "Total Advertisers": "20",
-      "Checked At UTC": "2026-10-01 05:48:21 UTC"
+      "Checked At UTC": "2026-10-01 07:10:48 UTC"
     },
     {
       "City": "Natick, MA",
       "Rank": "#5",
       "Status": "RANKED",
       "Total Advertisers": "20",
-      "Checked At UTC": "2026-10-01 05:48:22 UTC"
+      "Checked At UTC": "2026-10-01 07:10:49 UTC"
     },
     {
       "City": "Needham, MA",
-      "Rank": "#6",
+      "Rank": "#7",
       "Status": "RANKED",
       "Total Advertisers": "20",
-      "Checked At UTC": "2026-10-01 05:48:24 UTC"
+      "Checked At UTC": "2026-10-01 07:10:52 UTC"
     },
     {
       "City": "Newton, MA",
-      "Rank": "-",
-      "Status": "API_ERROR: API request failed after 3 attempts: SerpApi error: Google Local Services hasn't returned any results for this query.",
-      "Total Advertisers": "",
-      "Checked At UTC": "2026-10-01 05:48:26 UTC"
+      "Rank": "#8",
+      "Status": "RANKED",
+      "Total Advertisers": "20",
+      "Checked At UTC": "2026-10-01 07:10:54 UTC"
     },
     {
       "City": "North Andover, MA",
       "Rank": "#6",
       "Status": "RANKED",
       "Total Advertisers": "20",
-      "Checked At UTC": "2026-10-01 05:48:37 UTC"
+      "Checked At UTC": "2026-10-01 07:11:01 UTC"
     },
     {
       "City": "Norwood, MA",
-      "Rank": "#5",
-      "Status": "RANKED",
-      "Total Advertisers": "20",
-      "Checked At UTC": "2026-10-01 05:48:39 UTC"
-    },
-    {
-      "City": "Quincy, MA",
       "Rank": "#6",
       "Status": "RANKED",
       "Total Advertisers": "20",
-      "Checked At UTC": "2026-10-01 05:48:41 UTC"
+      "Checked At UTC": "2026-10-01 07:11:03 UTC"
+    },
+    {
+      "City": "Quincy, MA",
+      "Rank": "#5",
+      "Status": "RANKED",
+      "Total Advertisers": "20",
+      "Checked At UTC": "2026-10-01 07:11:06 UTC"
     },
     {
       "City": "Reading, MA",
       "Rank": "#5",
       "Status": "RANKED",
       "Total Advertisers": "20",
-      "Checked At UTC": "2026-10-01 05:48:43 UTC"
+      "Checked At UTC": "2026-10-01 07:11:09 UTC"
     },
     {
       "City": "Revere, MA",
       "Rank": "#5",
       "Status": "RANKED",
       "Total Advertisers": "20",
-      "Checked At UTC": "2026-10-01 05:48:45 UTC"
+      "Checked At UTC": "2026-10-01 07:11:11 UTC"
     },
     {
       "City": "Somerville, MA",
       "Rank": "#6",
       "Status": "RANKED",
       "Total Advertisers": "20",
-      "Checked At UTC": "2026-10-01 05:48:47 UTC"
+      "Checked At UTC": "2026-10-01 07:11:14 UTC"
     },
     {
       "City": "Stoneham, MA",
-      "Rank": "#7",
+      "Rank": "#5",
       "Status": "RANKED",
       "Total Advertisers": "20",
-      "Checked At UTC": "2026-10-01 05:48:49 UTC"
+      "Checked At UTC": "2026-10-01 07:11:17 UTC"
     },
     {
       "City": "Sudbury, MA",
       "Rank": "#6",
       "Status": "RANKED",
       "Total Advertisers": "20",
-      "Checked At UTC": "2026-10-01 05:48:52 UTC"
+      "Checked At UTC": "2026-10-01 07:11:19 UTC"
     },
     {
       "City": "Tewksbury, MA",
-      "Rank": "#7",
+      "Rank": "#6",
       "Status": "RANKED",
       "Total Advertisers": "20",
-      "Checked At UTC": "2026-10-01 05:48:53 UTC"
+      "Checked At UTC": "2026-10-01 07:11:21 UTC"
     },
     {
       "City": "Wakefield, MA",
       "Rank": "#5",
       "Status": "RANKED",
       "Total Advertisers": "20",
-      "Checked At UTC": "2026-10-01 05:48:55 UTC"
+      "Checked At UTC": "2026-10-01 07:11:23 UTC"
     },
     {
       "City": "Waltham, MA",
-      "Rank": "#7",
+      "Rank": "#6",
       "Status": "RANKED",
       "Total Advertisers": "20",
-      "Checked At UTC": "2026-10-01 05:48:58 UTC"
+      "Checked At UTC": "2026-10-01 07:11:25 UTC"
     },
     {
       "City": "Watertown, MA",
       "Rank": "#6",
       "Status": "RANKED",
       "Total Advertisers": "20",
-      "Checked At UTC": "2026-10-01 05:49:02 UTC"
+      "Checked At UTC": "2026-10-01 07:11:27 UTC"
     },
     {
       "City": "Wayland, MA",
       "Rank": "#5",
       "Status": "RANKED",
       "Total Advertisers": "20",
-      "Checked At UTC": "2026-10-01 05:49:03 UTC"
+      "Checked At UTC": "2026-10-01 07:11:29 UTC"
     },
     {
       "City": "Wellesley, MA",
-      "Rank": "#6",
+      "Rank": "#5",
       "Status": "RANKED",
       "Total Advertisers": "20",
-      "Checked At UTC": "2026-10-01 05:49:07 UTC"
+      "Checked At UTC": "2026-10-01 07:11:31 UTC"
     },
     {
       "City": "Westford, MA",
-      "Rank": "#6",
+      "Rank": "#7",
       "Status": "RANKED",
       "Total Advertisers": "20",
-      "Checked At UTC": "2026-10-01 05:49:09 UTC"
+      "Checked At UTC": "2026-10-01 07:11:32 UTC"
     },
     {
       "City": "Weston, MA",
-      "Rank": "#6",
+      "Rank": "#5",
       "Status": "RANKED",
       "Total Advertisers": "20",
-      "Checked At UTC": "2026-10-01 05:49:11 UTC"
+      "Checked At UTC": "2026-10-01 07:11:34 UTC"
     },
     {
       "City": "Westwood, MA",
       "Rank": "#5",
       "Status": "RANKED",
       "Total Advertisers": "20",
-      "Checked At UTC": "2026-10-01 05:49:13 UTC"
+      "Checked At UTC": "2026-10-01 07:11:41 UTC"
     },
     {
       "City": "Wilmington, MA",
       "Rank": "#5",
       "Status": "RANKED",
       "Total Advertisers": "20",
-      "Checked At UTC": "2026-10-01 05:49:14 UTC"
+      "Checked At UTC": "2026-10-01 07:11:43 UTC"
     },
     {
       "City": "Winchester, MA",
-      "Rank": "#7",
-      "Status": "RANKED",
-      "Total Advertisers": "20",
-      "Checked At UTC": "2026-10-01 05:49:17 UTC"
+      "Rank": "-",
+      "Status": "API_ERROR: API request failed after 3 attempts: SerpApi error: Google Local Services hasn't returned any results for this query.",
+      "Total Advertisers": "",
+      "Checked At UTC": "2026-10-01 07:11:45 UTC"
     },
     {
       "City": "Winthrop, MA",
-      "Rank": "#5",
-      "Status": "RANKED",
-      "Total Advertisers": "20",
-      "Checked At UTC": "2026-10-01 05:49:20 UTC"
-    },
-    {
-      "City": "Woburn, MA",
       "Rank": "#6",
       "Status": "RANKED",
       "Total Advertisers": "20",
-      "Checked At UTC": "2026-10-01 05:49:21 UTC"
+      "Checked At UTC": "2026-10-01 07:11:55 UTC"
+    },
+    {
+      "City": "Woburn, MA",
+      "Rank": "#5",
+      "Status": "RANKED",
+      "Total Advertisers": "20",
+      "Checked At UTC": "2026-10-01 07:11:57 UTC"
     }
   ]
 }
