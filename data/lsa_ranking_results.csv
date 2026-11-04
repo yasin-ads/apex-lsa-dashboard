@@ -1,55 +1,55 @@
 ﻿City,Rank,Status,Total Advertisers,Checked At UTC
-"Acton, MA",-,API_ERROR: API request failed after 3 attempts: HTTP Error 429: Too Many Requests,,2026-11-03 23:17:19 UTC
-"Andover, MA",-,API_ERROR: API request failed after 3 attempts: HTTP Error 429: Too Many Requests,,2026-11-03 23:17:29 UTC
-"Arlington, MA",-,API_ERROR: API request failed after 3 attempts: HTTP Error 429: Too Many Requests,,2026-11-03 23:17:40 UTC
-"Bedford, MA",-,API_ERROR: API request failed after 3 attempts: HTTP Error 429: Too Many Requests,,2026-11-03 23:17:50 UTC
-"Belmont, MA",-,API_ERROR: API request failed after 3 attempts: HTTP Error 429: Too Many Requests,,2026-11-03 23:18:00 UTC
-"Billerica, MA",-,API_ERROR: API request failed after 3 attempts: HTTP Error 429: Too Many Requests,,2026-11-03 23:18:11 UTC
-"Boston, MA",-,API_ERROR: API request failed after 3 attempts: HTTP Error 429: Too Many Requests,,2026-11-03 23:18:21 UTC
-"Braintree, MA",-,API_ERROR: API request failed after 3 attempts: HTTP Error 429: Too Many Requests,,2026-11-03 23:18:32 UTC
-"Brookline, MA",-,API_ERROR: API request failed after 3 attempts: HTTP Error 429: Too Many Requests,,2026-11-03 23:18:42 UTC
-"Burlington, MA",-,API_ERROR: API request failed after 3 attempts: HTTP Error 429: Too Many Requests,,2026-11-03 23:18:52 UTC
-"Cambridge, MA",-,API_ERROR: API request failed after 3 attempts: HTTP Error 429: Too Many Requests,,2026-11-03 23:19:03 UTC
-"Canton, MA",-,API_ERROR: API request failed after 3 attempts: HTTP Error 429: Too Many Requests,,2026-11-03 23:19:13 UTC
-"Chelmsford, MA",-,API_ERROR: API request failed after 3 attempts: HTTP Error 429: Too Many Requests,,2026-11-03 23:19:23 UTC
-"Chelsea, MA",-,API_ERROR: API request failed after 3 attempts: HTTP Error 429: Too Many Requests,,2026-11-03 23:19:34 UTC
-"Concord, MA",-,API_ERROR: API request failed after 3 attempts: HTTP Error 429: Too Many Requests,,2026-11-03 23:19:44 UTC
-"Dedham, MA",-,API_ERROR: API request failed after 3 attempts: HTTP Error 429: Too Many Requests,,2026-11-03 23:19:55 UTC
-"Dracut, MA",-,API_ERROR: API request failed after 3 attempts: HTTP Error 429: Too Many Requests,,2026-11-03 23:20:05 UTC
-"Everett, MA",-,API_ERROR: API request failed after 3 attempts: HTTP Error 429: Too Many Requests,,2026-11-03 23:20:15 UTC
-"Framingham, MA",-,API_ERROR: API request failed after 3 attempts: HTTP Error 429: Too Many Requests,,2026-11-03 23:20:26 UTC
-"Haverhill, MA",-,API_ERROR: API request failed after 3 attempts: HTTP Error 429: Too Many Requests,,2026-11-03 23:20:36 UTC
-"Lawrence, MA",-,API_ERROR: API request failed after 3 attempts: HTTP Error 429: Too Many Requests,,2026-11-03 23:20:46 UTC
-"Lexington, MA",-,API_ERROR: API request failed after 3 attempts: HTTP Error 429: Too Many Requests,,2026-11-03 23:20:57 UTC
-"Littleton, MA",-,API_ERROR: API request failed after 3 attempts: HTTP Error 429: Too Many Requests,,2026-11-03 23:21:07 UTC
-"Lowell, MA",-,API_ERROR: API request failed after 3 attempts: HTTP Error 429: Too Many Requests,,2026-11-03 23:21:17 UTC
-"Malden, MA",-,API_ERROR: API request failed after 3 attempts: HTTP Error 429: Too Many Requests,,2026-11-03 23:21:28 UTC
-"Marlborough, MA",-,API_ERROR: API request failed after 3 attempts: HTTP Error 429: Too Many Requests,,2026-11-03 23:21:38 UTC
-"Medford, MA",-,API_ERROR: API request failed after 3 attempts: HTTP Error 429: Too Many Requests,,2026-11-03 23:21:49 UTC
-"Melrose, MA",-,API_ERROR: API request failed after 3 attempts: HTTP Error 429: Too Many Requests,,2026-11-03 23:21:59 UTC
-"Methuen, MA",-,API_ERROR: API request failed after 3 attempts: HTTP Error 429: Too Many Requests,,2026-11-03 23:22:09 UTC
-"Milton, MA",-,API_ERROR: API request failed after 3 attempts: HTTP Error 429: Too Many Requests,,2026-11-03 23:22:20 UTC
-"Natick, MA",-,API_ERROR: API request failed after 3 attempts: HTTP Error 429: Too Many Requests,,2026-11-03 23:22:30 UTC
-"Needham, MA",-,API_ERROR: API request failed after 3 attempts: HTTP Error 429: Too Many Requests,,2026-11-03 23:22:40 UTC
-"Newton, MA",-,API_ERROR: API request failed after 3 attempts: HTTP Error 429: Too Many Requests,,2026-11-03 23:22:51 UTC
-"North Andover, MA",-,API_ERROR: API request failed after 3 attempts: HTTP Error 429: Too Many Requests,,2026-11-03 23:23:01 UTC
-"Norwood, MA",-,API_ERROR: API request failed after 3 attempts: HTTP Error 429: Too Many Requests,,2026-11-03 23:23:12 UTC
-"Quincy, MA",-,API_ERROR: API request failed after 3 attempts: HTTP Error 429: Too Many Requests,,2026-11-03 23:23:22 UTC
-"Reading, MA",-,API_ERROR: API request failed after 3 attempts: HTTP Error 429: Too Many Requests,,2026-11-03 23:23:32 UTC
-"Revere, MA",-,API_ERROR: API request failed after 3 attempts: HTTP Error 429: Too Many Requests,,2026-11-03 23:23:43 UTC
-"Somerville, MA",-,API_ERROR: API request failed after 3 attempts: HTTP Error 429: Too Many Requests,,2026-11-03 23:23:53 UTC
-"Stoneham, MA",-,API_ERROR: API request failed after 3 attempts: HTTP Error 429: Too Many Requests,,2026-11-03 23:24:03 UTC
-"Sudbury, MA",-,API_ERROR: API request failed after 3 attempts: HTTP Error 429: Too Many Requests,,2026-11-03 23:24:14 UTC
-"Tewksbury, MA",-,API_ERROR: API request failed after 3 attempts: HTTP Error 429: Too Many Requests,,2026-11-03 23:24:24 UTC
-"Wakefield, MA",-,API_ERROR: API request failed after 3 attempts: HTTP Error 429: Too Many Requests,,2026-11-03 23:24:34 UTC
-"Waltham, MA",-,API_ERROR: API request failed after 3 attempts: HTTP Error 429: Too Many Requests,,2026-11-03 23:24:45 UTC
-"Watertown, MA",-,API_ERROR: API request failed after 3 attempts: HTTP Error 429: Too Many Requests,,2026-11-03 23:24:55 UTC
-"Wayland, MA",-,API_ERROR: API request failed after 3 attempts: HTTP Error 429: Too Many Requests,,2026-11-03 23:25:06 UTC
-"Wellesley, MA",-,API_ERROR: API request failed after 3 attempts: HTTP Error 429: Too Many Requests,,2026-11-03 23:25:16 UTC
-"Westford, MA",-,API_ERROR: API request failed after 3 attempts: HTTP Error 429: Too Many Requests,,2026-11-03 23:25:26 UTC
-"Weston, MA",-,API_ERROR: API request failed after 3 attempts: HTTP Error 429: Too Many Requests,,2026-11-03 23:25:37 UTC
-"Westwood, MA",-,API_ERROR: API request failed after 3 attempts: HTTP Error 429: Too Many Requests,,2026-11-03 23:25:47 UTC
-"Wilmington, MA",-,API_ERROR: API request failed after 3 attempts: HTTP Error 429: Too Many Requests,,2026-11-03 23:25:58 UTC
-"Winchester, MA",-,API_ERROR: API request failed after 3 attempts: HTTP Error 429: Too Many Requests,,2026-11-03 23:26:08 UTC
-"Winthrop, MA",-,API_ERROR: API request failed after 3 attempts: HTTP Error 429: Too Many Requests,,2026-11-03 23:26:18 UTC
-"Woburn, MA",-,API_ERROR: API request failed after 3 attempts: HTTP Error 429: Too Many Requests,,2026-11-03 23:26:29 UTC
+"Acton, MA",#5,RANKED,20,2026-11-04 06:10:38 UTC
+"Andover, MA",#5,RANKED,20,2026-11-04 06:10:46 UTC
+"Arlington, MA",#5,RANKED,20,2026-11-04 06:10:47 UTC
+"Bedford, MA",#5,RANKED,20,2026-11-04 06:10:49 UTC
+"Belmont, MA",#5,RANKED,20,2026-11-04 06:10:51 UTC
+"Billerica, MA",#5,RANKED,20,2026-11-04 06:10:58 UTC
+"Boston, MA",#5,RANKED,20,2026-11-04 06:10:59 UTC
+"Braintree, MA",#5,RANKED,20,2026-11-04 06:11:01 UTC
+"Brookline, MA",#5,RANKED,20,2026-11-04 06:11:03 UTC
+"Burlington, MA",#5,RANKED,20,2026-11-04 06:11:05 UTC
+"Cambridge, MA",-,NOT_RANKING,20,2026-11-04 06:11:07 UTC
+"Canton, MA",#5,RANKED,20,2026-11-04 06:11:09 UTC
+"Chelmsford, MA",#5,RANKED,20,2026-11-04 06:11:11 UTC
+"Chelsea, MA",#6,RANKED,20,2026-11-04 06:11:14 UTC
+"Concord, MA",#5,RANKED,20,2026-11-04 06:11:17 UTC
+"Dedham, MA",#5,RANKED,20,2026-11-04 06:11:19 UTC
+"Dracut, MA",#4,RANKED,20,2026-11-04 06:11:21 UTC
+"Everett, MA",#5,RANKED,20,2026-11-04 06:11:23 UTC
+"Framingham, MA",#5,RANKED,20,2026-11-04 06:11:25 UTC
+"Haverhill, MA",#4,RANKED,20,2026-11-04 06:11:27 UTC
+"Lawrence, MA",#5,RANKED,19,2026-11-04 06:11:29 UTC
+"Lexington, MA",#5,RANKED,20,2026-11-04 06:11:31 UTC
+"Littleton, MA",#5,RANKED,20,2026-11-04 06:11:33 UTC
+"Lowell, MA",#5,RANKED,20,2026-11-04 06:11:35 UTC
+"Malden, MA",#5,RANKED,20,2026-11-04 06:11:37 UTC
+"Marlborough, MA",#5,RANKED,20,2026-11-04 06:11:39 UTC
+"Medford, MA",#5,RANKED,20,2026-11-04 06:11:42 UTC
+"Melrose, MA",#5,RANKED,20,2026-11-04 06:11:46 UTC
+"Methuen, MA",#4,RANKED,20,2026-11-04 06:11:48 UTC
+"Milton, MA",#5,RANKED,20,2026-11-04 06:11:50 UTC
+"Natick, MA",#5,RANKED,20,2026-11-04 06:11:52 UTC
+"Needham, MA",#5,RANKED,20,2026-11-04 06:11:55 UTC
+"Newton, MA",#5,RANKED,20,2026-11-04 06:11:57 UTC
+"North Andover, MA",#5,RANKED,20,2026-11-04 06:11:59 UTC
+"Norwood, MA",#5,RANKED,20,2026-11-04 06:12:01 UTC
+"Quincy, MA",#5,RANKED,20,2026-11-04 06:12:03 UTC
+"Reading, MA",#5,RANKED,20,2026-11-04 06:12:05 UTC
+"Revere, MA",#5,RANKED,20,2026-11-04 06:12:12 UTC
+"Somerville, MA",#5,RANKED,20,2026-11-04 06:12:14 UTC
+"Stoneham, MA",#5,RANKED,20,2026-11-04 06:12:16 UTC
+"Sudbury, MA",#5,RANKED,20,2026-11-04 06:12:23 UTC
+"Tewksbury, MA",#5,RANKED,20,2026-11-04 06:12:25 UTC
+"Wakefield, MA",#5,RANKED,20,2026-11-04 06:12:27 UTC
+"Waltham, MA",-,NOT_RANKING,20,2026-11-04 06:12:30 UTC
+"Watertown, MA",#5,RANKED,20,2026-11-04 06:12:32 UTC
+"Wayland, MA",#5,RANKED,20,2026-11-04 06:12:34 UTC
+"Wellesley, MA",#5,RANKED,20,2026-11-04 06:12:36 UTC
+"Westford, MA",#5,RANKED,20,2026-11-04 06:12:38 UTC
+"Weston, MA",#5,RANKED,20,2026-11-04 06:12:40 UTC
+"Westwood, MA",#5,RANKED,20,2026-11-04 06:12:43 UTC
+"Wilmington, MA",#5,RANKED,20,2026-11-04 06:12:45 UTC
+"Winchester, MA",#5,RANKED,20,2026-11-04 06:12:47 UTC
+"Winthrop, MA",#5,RANKED,20,2026-11-04 06:12:50 UTC
+"Woburn, MA",#5,RANKED,20,2026-11-04 06:12:54 UTC
