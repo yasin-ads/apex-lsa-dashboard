@@ -1,280 +1,5 @@
 [
   {
-    "checked_at_utc": "2026-09-30 21:51:40 UTC",
-    "results": [
-      {
-        "City": "Acton, MA",
-        "Rank": "#6",
-        "Status": "RANKED"
-      },
-      {
-        "City": "Andover, MA",
-        "Rank": "#6",
-        "Status": "RANKED"
-      },
-      {
-        "City": "Arlington, MA",
-        "Rank": "#6",
-        "Status": "RANKED"
-      },
-      {
-        "City": "Bedford, MA",
-        "Rank": "#6",
-        "Status": "RANKED"
-      },
-      {
-        "City": "Belmont, MA",
-        "Rank": "#6",
-        "Status": "RANKED"
-      },
-      {
-        "City": "Billerica, MA",
-        "Rank": "#6",
-        "Status": "RANKED"
-      },
-      {
-        "City": "Boston, MA",
-        "Rank": "#6",
-        "Status": "RANKED"
-      },
-      {
-        "City": "Braintree, MA",
-        "Rank": "#6",
-        "Status": "RANKED"
-      },
-      {
-        "City": "Brookline, MA",
-        "Rank": "#6",
-        "Status": "RANKED"
-      },
-      {
-        "City": "Burlington, MA",
-        "Rank": "#6",
-        "Status": "RANKED"
-      },
-      {
-        "City": "Cambridge, MA",
-        "Rank": "#15",
-        "Status": "RANKED"
-      },
-      {
-        "City": "Canton, MA",
-        "Rank": "#6",
-        "Status": "RANKED"
-      },
-      {
-        "City": "Chelmsford, MA",
-        "Rank": "#6",
-        "Status": "RANKED"
-      },
-      {
-        "City": "Chelsea, MA",
-        "Rank": "#7",
-        "Status": "RANKED"
-      },
-      {
-        "City": "Concord, MA",
-        "Rank": "#6",
-        "Status": "RANKED"
-      },
-      {
-        "City": "Dedham, MA",
-        "Rank": "#14",
-        "Status": "RANKED"
-      },
-      {
-        "City": "Dracut, MA",
-        "Rank": "#5",
-        "Status": "RANKED"
-      },
-      {
-        "City": "Everett, MA",
-        "Rank": "#6",
-        "Status": "RANKED"
-      },
-      {
-        "City": "Framingham, MA",
-        "Rank": "#6",
-        "Status": "RANKED"
-      },
-      {
-        "City": "Haverhill, MA",
-        "Rank": "#5",
-        "Status": "RANKED"
-      },
-      {
-        "City": "Lawrence, MA",
-        "Rank": "#6",
-        "Status": "RANKED"
-      },
-      {
-        "City": "Lexington, MA",
-        "Rank": "#6",
-        "Status": "RANKED"
-      },
-      {
-        "City": "Littleton, MA",
-        "Rank": "#6",
-        "Status": "RANKED"
-      },
-      {
-        "City": "Lowell, MA",
-        "Rank": "#6",
-        "Status": "RANKED"
-      },
-      {
-        "City": "Malden, MA",
-        "Rank": "#6",
-        "Status": "RANKED"
-      },
-      {
-        "City": "Marlborough, MA",
-        "Rank": "#6",
-        "Status": "RANKED"
-      },
-      {
-        "City": "Medford, MA",
-        "Rank": "#6",
-        "Status": "RANKED"
-      },
-      {
-        "City": "Melrose, MA",
-        "Rank": "#6",
-        "Status": "RANKED"
-      },
-      {
-        "City": "Methuen, MA",
-        "Rank": "#5",
-        "Status": "RANKED"
-      },
-      {
-        "City": "Milton, MA",
-        "Rank": "#6",
-        "Status": "RANKED"
-      },
-      {
-        "City": "Natick, MA",
-        "Rank": "#6",
-        "Status": "RANKED"
-      },
-      {
-        "City": "Needham, MA",
-        "Rank": "#6",
-        "Status": "RANKED"
-      },
-      {
-        "City": "Newton, MA",
-        "Rank": "#6",
-        "Status": "RANKED"
-      },
-      {
-        "City": "North Andover, MA",
-        "Rank": "#6",
-        "Status": "RANKED"
-      },
-      {
-        "City": "Norwood, MA",
-        "Rank": "#6",
-        "Status": "RANKED"
-      },
-      {
-        "City": "Quincy, MA",
-        "Rank": "#6",
-        "Status": "RANKED"
-      },
-      {
-        "City": "Reading, MA",
-        "Rank": "#6",
-        "Status": "RANKED"
-      },
-      {
-        "City": "Revere, MA",
-        "Rank": "#6",
-        "Status": "RANKED"
-      },
-      {
-        "City": "Somerville, MA",
-        "Rank": "#6",
-        "Status": "RANKED"
-      },
-      {
-        "City": "Stoneham, MA",
-        "Rank": "#16",
-        "Status": "RANKED"
-      },
-      {
-        "City": "Sudbury, MA",
-        "Rank": "#6",
-        "Status": "RANKED"
-      },
-      {
-        "City": "Tewksbury, MA",
-        "Rank": "#6",
-        "Status": "RANKED"
-      },
-      {
-        "City": "Wakefield, MA",
-        "Rank": "#6",
-        "Status": "RANKED"
-      },
-      {
-        "City": "Waltham, MA",
-        "Rank": "#6",
-        "Status": "RANKED"
-      },
-      {
-        "City": "Watertown, MA",
-        "Rank": "#19",
-        "Status": "RANKED"
-      },
-      {
-        "City": "Wayland, MA",
-        "Rank": "#6",
-        "Status": "RANKED"
-      },
-      {
-        "City": "Wellesley, MA",
-        "Rank": "#6",
-        "Status": "RANKED"
-      },
-      {
-        "City": "Westford, MA",
-        "Rank": "#11",
-        "Status": "RANKED"
-      },
-      {
-        "City": "Weston, MA",
-        "Rank": "#6",
-        "Status": "RANKED"
-      },
-      {
-        "City": "Westwood, MA",
-        "Rank": "#6",
-        "Status": "RANKED"
-      },
-      {
-        "City": "Wilmington, MA",
-        "Rank": "#6",
-        "Status": "RANKED"
-      },
-      {
-        "City": "Winchester, MA",
-        "Rank": "#15",
-        "Status": "RANKED"
-      },
-      {
-        "City": "Winthrop, MA",
-        "Rank": "#6",
-        "Status": "RANKED"
-      },
-      {
-        "City": "Woburn, MA",
-        "Rank": "#6",
-        "Status": "RANKED"
-      }
-    ]
-  },
-  {
     "checked_at_utc": "2026-09-30 22:00:13 UTC",
     "results": [
       {
@@ -49226,6 +48951,281 @@
   },
   {
     "checked_at_utc": "2026-11-27 21:20:27 UTC",
+    "results": [
+      {
+        "City": "Acton, MA",
+        "Rank": "-",
+        "Status": "API_ERROR: API request failed after 3 attempts: HTTP Error 401: Unauthorized"
+      },
+      {
+        "City": "Andover, MA",
+        "Rank": "-",
+        "Status": "API_ERROR: API request failed after 3 attempts: HTTP Error 401: Unauthorized"
+      },
+      {
+        "City": "Arlington, MA",
+        "Rank": "-",
+        "Status": "API_ERROR: API request failed after 3 attempts: HTTP Error 401: Unauthorized"
+      },
+      {
+        "City": "Bedford, MA",
+        "Rank": "-",
+        "Status": "API_ERROR: API request failed after 3 attempts: HTTP Error 401: Unauthorized"
+      },
+      {
+        "City": "Belmont, MA",
+        "Rank": "-",
+        "Status": "API_ERROR: API request failed after 3 attempts: HTTP Error 401: Unauthorized"
+      },
+      {
+        "City": "Billerica, MA",
+        "Rank": "-",
+        "Status": "API_ERROR: API request failed after 3 attempts: HTTP Error 401: Unauthorized"
+      },
+      {
+        "City": "Boston, MA",
+        "Rank": "-",
+        "Status": "API_ERROR: API request failed after 3 attempts: HTTP Error 401: Unauthorized"
+      },
+      {
+        "City": "Braintree, MA",
+        "Rank": "-",
+        "Status": "API_ERROR: API request failed after 3 attempts: HTTP Error 401: Unauthorized"
+      },
+      {
+        "City": "Brookline, MA",
+        "Rank": "-",
+        "Status": "API_ERROR: API request failed after 3 attempts: HTTP Error 401: Unauthorized"
+      },
+      {
+        "City": "Burlington, MA",
+        "Rank": "-",
+        "Status": "API_ERROR: API request failed after 3 attempts: HTTP Error 401: Unauthorized"
+      },
+      {
+        "City": "Cambridge, MA",
+        "Rank": "-",
+        "Status": "API_ERROR: API request failed after 3 attempts: HTTP Error 401: Unauthorized"
+      },
+      {
+        "City": "Canton, MA",
+        "Rank": "-",
+        "Status": "API_ERROR: API request failed after 3 attempts: HTTP Error 401: Unauthorized"
+      },
+      {
+        "City": "Chelmsford, MA",
+        "Rank": "-",
+        "Status": "API_ERROR: API request failed after 3 attempts: HTTP Error 401: Unauthorized"
+      },
+      {
+        "City": "Chelsea, MA",
+        "Rank": "-",
+        "Status": "API_ERROR: API request failed after 3 attempts: HTTP Error 401: Unauthorized"
+      },
+      {
+        "City": "Concord, MA",
+        "Rank": "-",
+        "Status": "API_ERROR: API request failed after 3 attempts: HTTP Error 401: Unauthorized"
+      },
+      {
+        "City": "Dedham, MA",
+        "Rank": "-",
+        "Status": "API_ERROR: API request failed after 3 attempts: HTTP Error 401: Unauthorized"
+      },
+      {
+        "City": "Dracut, MA",
+        "Rank": "-",
+        "Status": "API_ERROR: API request failed after 3 attempts: HTTP Error 401: Unauthorized"
+      },
+      {
+        "City": "Everett, MA",
+        "Rank": "-",
+        "Status": "API_ERROR: API request failed after 3 attempts: HTTP Error 401: Unauthorized"
+      },
+      {
+        "City": "Framingham, MA",
+        "Rank": "-",
+        "Status": "API_ERROR: API request failed after 3 attempts: HTTP Error 401: Unauthorized"
+      },
+      {
+        "City": "Haverhill, MA",
+        "Rank": "-",
+        "Status": "API_ERROR: API request failed after 3 attempts: HTTP Error 401: Unauthorized"
+      },
+      {
+        "City": "Lawrence, MA",
+        "Rank": "-",
+        "Status": "API_ERROR: API request failed after 3 attempts: HTTP Error 401: Unauthorized"
+      },
+      {
+        "City": "Lexington, MA",
+        "Rank": "-",
+        "Status": "API_ERROR: API request failed after 3 attempts: HTTP Error 401: Unauthorized"
+      },
+      {
+        "City": "Littleton, MA",
+        "Rank": "-",
+        "Status": "API_ERROR: API request failed after 3 attempts: HTTP Error 401: Unauthorized"
+      },
+      {
+        "City": "Lowell, MA",
+        "Rank": "-",
+        "Status": "API_ERROR: API request failed after 3 attempts: HTTP Error 401: Unauthorized"
+      },
+      {
+        "City": "Malden, MA",
+        "Rank": "-",
+        "Status": "API_ERROR: API request failed after 3 attempts: HTTP Error 401: Unauthorized"
+      },
+      {
+        "City": "Marlborough, MA",
+        "Rank": "-",
+        "Status": "API_ERROR: API request failed after 3 attempts: HTTP Error 401: Unauthorized"
+      },
+      {
+        "City": "Medford, MA",
+        "Rank": "-",
+        "Status": "API_ERROR: API request failed after 3 attempts: HTTP Error 401: Unauthorized"
+      },
+      {
+        "City": "Melrose, MA",
+        "Rank": "-",
+        "Status": "API_ERROR: API request failed after 3 attempts: HTTP Error 401: Unauthorized"
+      },
+      {
+        "City": "Methuen, MA",
+        "Rank": "-",
+        "Status": "API_ERROR: API request failed after 3 attempts: HTTP Error 401: Unauthorized"
+      },
+      {
+        "City": "Milton, MA",
+        "Rank": "-",
+        "Status": "API_ERROR: API request failed after 3 attempts: HTTP Error 401: Unauthorized"
+      },
+      {
+        "City": "Natick, MA",
+        "Rank": "-",
+        "Status": "API_ERROR: API request failed after 3 attempts: HTTP Error 401: Unauthorized"
+      },
+      {
+        "City": "Needham, MA",
+        "Rank": "-",
+        "Status": "API_ERROR: API request failed after 3 attempts: HTTP Error 401: Unauthorized"
+      },
+      {
+        "City": "Newton, MA",
+        "Rank": "-",
+        "Status": "API_ERROR: API request failed after 3 attempts: HTTP Error 401: Unauthorized"
+      },
+      {
+        "City": "North Andover, MA",
+        "Rank": "-",
+        "Status": "API_ERROR: API request failed after 3 attempts: HTTP Error 401: Unauthorized"
+      },
+      {
+        "City": "Norwood, MA",
+        "Rank": "-",
+        "Status": "API_ERROR: API request failed after 3 attempts: HTTP Error 401: Unauthorized"
+      },
+      {
+        "City": "Quincy, MA",
+        "Rank": "-",
+        "Status": "API_ERROR: API request failed after 3 attempts: HTTP Error 401: Unauthorized"
+      },
+      {
+        "City": "Reading, MA",
+        "Rank": "-",
+        "Status": "API_ERROR: API request failed after 3 attempts: HTTP Error 401: Unauthorized"
+      },
+      {
+        "City": "Revere, MA",
+        "Rank": "-",
+        "Status": "API_ERROR: API request failed after 3 attempts: HTTP Error 401: Unauthorized"
+      },
+      {
+        "City": "Somerville, MA",
+        "Rank": "-",
+        "Status": "API_ERROR: API request failed after 3 attempts: HTTP Error 401: Unauthorized"
+      },
+      {
+        "City": "Stoneham, MA",
+        "Rank": "-",
+        "Status": "API_ERROR: API request failed after 3 attempts: HTTP Error 401: Unauthorized"
+      },
+      {
+        "City": "Sudbury, MA",
+        "Rank": "-",
+        "Status": "API_ERROR: API request failed after 3 attempts: HTTP Error 401: Unauthorized"
+      },
+      {
+        "City": "Tewksbury, MA",
+        "Rank": "-",
+        "Status": "API_ERROR: API request failed after 3 attempts: HTTP Error 401: Unauthorized"
+      },
+      {
+        "City": "Wakefield, MA",
+        "Rank": "-",
+        "Status": "API_ERROR: API request failed after 3 attempts: HTTP Error 401: Unauthorized"
+      },
+      {
+        "City": "Waltham, MA",
+        "Rank": "-",
+        "Status": "API_ERROR: API request failed after 3 attempts: HTTP Error 401: Unauthorized"
+      },
+      {
+        "City": "Watertown, MA",
+        "Rank": "-",
+        "Status": "API_ERROR: API request failed after 3 attempts: HTTP Error 401: Unauthorized"
+      },
+      {
+        "City": "Wayland, MA",
+        "Rank": "-",
+        "Status": "API_ERROR: API request failed after 3 attempts: HTTP Error 401: Unauthorized"
+      },
+      {
+        "City": "Wellesley, MA",
+        "Rank": "-",
+        "Status": "API_ERROR: API request failed after 3 attempts: HTTP Error 401: Unauthorized"
+      },
+      {
+        "City": "Westford, MA",
+        "Rank": "-",
+        "Status": "API_ERROR: API request failed after 3 attempts: HTTP Error 401: Unauthorized"
+      },
+      {
+        "City": "Weston, MA",
+        "Rank": "-",
+        "Status": "API_ERROR: API request failed after 3 attempts: HTTP Error 401: Unauthorized"
+      },
+      {
+        "City": "Westwood, MA",
+        "Rank": "-",
+        "Status": "API_ERROR: API request failed after 3 attempts: HTTP Error 401: Unauthorized"
+      },
+      {
+        "City": "Wilmington, MA",
+        "Rank": "-",
+        "Status": "API_ERROR: API request failed after 3 attempts: HTTP Error 401: Unauthorized"
+      },
+      {
+        "City": "Winchester, MA",
+        "Rank": "-",
+        "Status": "API_ERROR: API request failed after 3 attempts: HTTP Error 401: Unauthorized"
+      },
+      {
+        "City": "Winthrop, MA",
+        "Rank": "-",
+        "Status": "API_ERROR: API request failed after 3 attempts: HTTP Error 401: Unauthorized"
+      },
+      {
+        "City": "Woburn, MA",
+        "Rank": "-",
+        "Status": "API_ERROR: API request failed after 3 attempts: HTTP Error 401: Unauthorized"
+      }
+    ]
+  },
+  {
+    "checked_at_utc": "2026-11-28 07:50:27 UTC",
     "results": [
       {
         "City": "Acton, MA",
